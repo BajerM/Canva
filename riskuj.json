@@ -30,6 +30,12 @@
         "question": "Které město bylo v roce 1989 centrem Sametové revoluce?",
         "answer": "Praha",
         "wrong_answers": ["Brno", "Bratislava", "Ostrava"]
+      },
+      {
+        "value": 600,
+        "question": "Jak se jmenovala událost, která spustila první světovou válku?",
+        "answer": "Sarajevský atentát",
+        "wrong_answers": ["Versailleská smlouva", "Pakt Ribbentrop–Molotov", "Mnichovská dohoda"]
       }
     ],
     "Věda": [
@@ -62,6 +68,12 @@
         "question": "Který vědec formuloval teorii relativity?",
         "answer": "Albert Einstein",
         "wrong_answers": ["Isaac Newton", "Nikola Tesla", "Stephen Hawking"]
+      },
+      {
+        "value": 600,
+        "question": "Jak se nazývá síla, která přitahuje tělesa k Zemi?",
+        "answer": "Gravitace",
+        "wrong_answers": ["Tlak", "Magnetismus", "Elektřina"]
       }
     ],
     "Sport": [
@@ -94,6 +106,12 @@
         "question": "Které město hostilo letní olympijské hry v roce 2016?",
         "answer": "Rio de Janeiro",
         "wrong_answers": ["Londýn", "Tokio", "Paříž"]
+      },
+      {
+        "value": 600,
+        "question": "Která země vyhrála fotbalové mistrovství světa v roce 2018?",
+        "answer": "Francie",
+        "wrong_answers": ["Brazílie", "Německo", "Argentina"]
       }
     ],
     "Kultura": [
@@ -126,6 +144,12 @@
         "question": "Jak se jmenuje slavný český muzikál o středověku, kde hraje Karel Gott?",
         "answer": "Noc na Karlštejně",
         "wrong_answers": ["Dracula", "Jesus Christ Superstar", "Kleopatra"]
+      },
+      {
+        "value": 600,
+        "question": "Jak se jmenuje známý obraz Vincenta van Gogha s noční oblohou?",
+        "answer": "Hvězdná noc",
+        "wrong_answers": ["Slunečnice", "Křik", "Poslední večeře"]
       }
     ],
     "Geografie": [
@@ -158,6 +182,202 @@
         "question": "Který oceán je největší na Zemi?",
         "answer": "Tichý oceán",
         "wrong_answers": ["Atlantský oceán", "Indický oceán", "Severní ledový oceán"]
+      },
+      {
+        "value": 600,
+        "question": "Jak se jmenuje největší poušť světa?",
+        "answer": "Sahara",
+        "wrong_answers": ["Gobi", "Atacama", "Arabská poušť"]
+      }
+    ],
+    "Influenceři": [
+      {
+        "value": 100,
+        "question": "Který český youtuber je známý sérií 'MenT’s life'?",
+        "answer": "MenT",
+        "wrong_answers": ["Tary", "Pedro", "Duklock"]
+      },
+      {
+        "value": 200,
+        "question": "Jak se jmenuje český influencer, který natáčí videa o vaření a má přezdívku podle jídla?",
+        "answer": "Pekelná kuchyně – Přemek Forejt",
+        "wrong_answers": ["Karel Kovář", "Stejk", "VláďaVideos"]
+      },
+      {
+        "value": 300,
+        "question": "Kdo je známý jako 'Kovy' na YouTube?",
+        "answer": "Karel Kovář",
+        "wrong_answers": ["MenT", "Tary", "Shopaholic Nicol"]
+      },
+      {
+        "value": 400,
+        "question": "Která influencerka je známá svým stylem a pořadem ‚U Kulatého stolu‘?",
+        "answer": "Shopaholic Nicol",
+        "wrong_answers": ["Anna Šulc", "DomiNiky", "Karin Ann"]
+      },
+      {
+        "value": 500,
+        "question": "Kdo z těchto influencerů se proslavil parkourem?",
+        "answer": "Tary",
+        "wrong_answers": ["Stejk", "Kovy", "Annie Camel"]
+      },
+      {
+        "value": 600,
+        "question": "Který český influencer se stal tváří značky Red Bull a natáčí extrémní videa?",
+        "answer": "MenT",
+        "wrong_answers": ["Fizzy", "Kovy", "Tary"]
+      }
+    ],
+    "Informatika": [
+      {
+        "value": 100,
+        "question": "Co znamená zkratka PC?",
+        "answer": "Personal Computer",
+        "wrong_answers": ["Public Connection", "Private Code", "Program Control"]
+      },
+      {
+        "value": 200,
+        "question": "Který operační systém vytvořila firma Microsoft?",
+        "answer": "Windows",
+        "wrong_answers": ["Linux", "MacOS", "Android"]
+      },
+      {
+        "value": 300,
+        "question": "Jak se jmenuje základní jednotka informace?",
+        "answer": "Bit",
+        "wrong_answers": ["Byte", "Pixel", "File"]
+      },
+      {
+        "value": 400,
+        "question": "Kdo je zakladatelem firmy Microsoft?",
+        "answer": "Bill Gates",
+        "wrong_answers": ["Steve Jobs", "Mark Zuckerberg", "Elon Musk"]
+      },
+      {
+        "value": 500,
+        "question": "Jaký program slouží k psaní textů ve Windows?",
+        "answer": "Microsoft Word",
+        "wrong_answers": ["Excel", "PowerPoint", "Paint"]
+      },
+      {
+        "value": 600,
+        "question": "Jak se nazývá proces, kdy se do programu vkládá škodlivý kód?",
+        "answer": "Hackování",
+        "wrong_answers": ["Programování", "Skenování", "Komprimace"]
+      }
+    ],
+    "Angličtina": [
+      {
+        "value": 100,
+        "question": "Jak se anglicky řekne ‚kočka‘?",
+        "answer": "Cat",
+        "wrong_answers": ["Dog", "Cow", "Mouse"]
+      },
+      {
+        "value": 200,
+        "question": "Jaký je minulý čas slovesa ‚go‘?",
+        "answer": "Went",
+        "wrong_answers": ["Goed", "Goes", "Goesed"]
+      },
+      {
+        "value": 300,
+        "question": "Co znamená anglické slovo ‚blue‘?",
+        "answer": "Modrá",
+        "wrong_answers": ["Zelená", "Žlutá", "Červená"]
+      },
+      {
+        "value": 400,
+        "question": "Jak se přeloží věta ‚I like school‘?",
+        "answer": "Mám rád školu",
+        "wrong_answers": ["Jdu do školy", "Nemám rád školu", "Škola je zavřená"]
+      },
+      {
+        "value": 500,
+        "question": "Jak se anglicky řekne ‚včera‘?",
+        "answer": "Yesterday",
+        "wrong_answers": ["Tomorrow", "Today", "Morning"]
+      },
+      {
+        "value": 600,
+        "question": "Jaký je správný překlad věty ‚She has been there before‘?",
+        "answer": "Už tam byla dříve",
+        "wrong_answers": ["Půjde tam zítra", "Nikdy tam nebyla", "Byla tam právě teď"]
+      }
+    ],
+    "Filmy": [
+      {
+        "value": 100,
+        "question": "Kdo hraje hlavní roli ve filmu ‚Harry Potter‘?",
+        "answer": "Daniel Radcliffe",
+        "wrong_answers": ["Rupert Grint", "Tom Holland", "Robert Pattinson"]
+      },
+      {
+        "value": 200,
+        "question": "Která postava říká větu ‚Já jsem tvůj otec‘?",
+        "answer": "Darth Vader",
+        "wrong_answers": ["Luke Skywalker", "Han Solo", "Yoda"]
+      },
+      {
+        "value": 300,
+        "question": "Který český film je známý hláškou ‚To se mi snad zdá!‘?",
+        "answer": "S tebou mě baví svět",
+        "wrong_answers": ["Pelíšky", "Samotáři", "Vesničko má středisková"]
+      },
+      {
+        "value": 400,
+        "question": "Jak se jmenuje studio, které natočilo film ‚Toy Story‘?",
+        "answer": "Pixar",
+        "wrong_answers": ["DreamWorks", "Disney", "Universal"]
+      },
+      {
+        "value": 500,
+        "question": "Kdo režíroval film ‚Titanic‘?",
+        "answer": "James Cameron",
+        "wrong_answers": ["Steven Spielberg", "Christopher Nolan", "Peter Jackson"]
+      },
+      {
+        "value": 600,
+        "question": "Jak se jmenuje film, ve kterém postava žije události stále dokola?",
+        "answer": "Na Hromnice o den více",
+        "wrong_answers": ["Matrix", "Počátek", "Tenet"]
+      }
+    ],
+    "Příroda": [
+      {
+        "value": 100,
+        "question": "Kolik noh má pavouk?",
+        "answer": "8",
+        "wrong_answers": ["6", "10", "4"]
+      },
+      {
+        "value": 200,
+        "question": "Jak se nazývá mládě krávy?",
+        "answer": "Tele",
+        "wrong_answers": ["Kůzle", "Sele", "Jelenče"]
+      },
+      {
+        "value": 300,
+        "question": "Která část stromu vyrůstá ze země?",
+        "answer": "Kořen",
+        "wrong_answers": ["Kmen", "List", "Větev"]
+      },
+      {
+        "value": 400,
+        "question": "Jaký plyn rostliny uvolňují při fotosyntéze?",
+        "answer": "Kyslík",
+        "wrong_answers": ["Dusík", "Oxid uhličitý", "Vodík"]
+      },
+      {
+        "value": 500,
+        "question": "Jak se nazývá místo, kde žijí tučňáci?",
+        "answer": "Antarktida",
+        "wrong_answers": ["Arktida", "Sibiř", "Island"]
+      },
+      {
+        "value": 600,
+        "question": "Jak se nazývá přeměna housenky v motýla?",
+        "answer": "Proměna (metamorfóza)",
+        "wrong_answers": ["Fotosyntéza", "Mutace", "Rozklad"]
       }
     ]
   }
