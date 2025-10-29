@@ -1,2 +1,164 @@
-pojemnovat pak .json
-commit changes
+{
+  "categories": {
+    "Historie": [
+      {
+        "value": 100,
+        "question": "Kdo byl prvním československým prezidentem?",
+        "answer": "Tomáš Garrigue Masaryk",
+        "wrong_answers": ["Edvard Beneš", "Klement Gottwald", "Jan Masaryk"]
+      },
+      {
+        "value": 200,
+        "question": "V kterém roce začala druhá světová válka?",
+        "answer": "1939",
+        "wrong_answers": ["1941", "1914", "1945"]
+      },
+      {
+        "value": 300,
+        "question": "Jak se jmenoval český král, který založil Karlovu univerzitu?",
+        "answer": "Karel IV.",
+        "wrong_answers": ["Václav IV.", "Přemysl Otakar II.", "Jan Lucemburský"]
+      },
+      {
+        "value": 400,
+        "question": "Jak se nazývalo období vlády komunistické strany v Československu?",
+        "answer": "Totalita",
+        "wrong_answers": ["Monarchie", "Demokracie", "První republika"]
+      },
+      {
+        "value": 500,
+        "question": "Které město bylo v roce 1989 centrem Sametové revoluce?",
+        "answer": "Praha",
+        "wrong_answers": ["Brno", "Bratislava", "Ostrava"]
+      }
+    ],
+    "Věda": [
+      {
+        "value": 100,
+        "question": "Která planeta je nejblíže Slunci?",
+        "answer": "Merkur",
+        "wrong_answers": ["Venuše", "Země", "Mars"]
+      },
+      {
+        "value": 200,
+        "question": "Jaká je chemická značka vody?",
+        "answer": "H₂O",
+        "wrong_answers": ["O₂", "CO₂", "H₂"]
+      },
+      {
+        "value": 300,
+        "question": "Kolik nohou má hmyz?",
+        "answer": "6",
+        "wrong_answers": ["4", "8", "10"]
+      },
+      {
+        "value": 400,
+        "question": "Jak se jmenuje věda, která zkoumá vesmír?",
+        "answer": "Astronomie",
+        "wrong_answers": ["Astrologie", "Fyzika", "Geologie"]
+      },
+      {
+        "value": 500,
+        "question": "Který vědec formuloval teorii relativity?",
+        "answer": "Albert Einstein",
+        "wrong_answers": ["Isaac Newton", "Nikola Tesla", "Stephen Hawking"]
+      }
+    ],
+    "Sport": [
+      {
+        "value": 100,
+        "question": "Kolik hráčů je na hřišti v jednom týmu při fotbale?",
+        "answer": "11",
+        "wrong_answers": ["10", "12", "9"]
+      },
+      {
+        "value": 200,
+        "question": "Jak se jmenuje nejslavnější český hokejista?",
+        "answer": "Jaromír Jágr",
+        "wrong_answers": ["Dominik Hašek", "Pavel Nedvěd", "Patrik Schick"]
+      },
+      {
+        "value": 300,
+        "question": "Kolik minut trvá běžný fotbalový zápas (bez prodloužení)?",
+        "answer": "90 minut",
+        "wrong_answers": ["80 minut", "100 minut", "70 minut"]
+      },
+      {
+        "value": 400,
+        "question": "Ve kterém sportu se používá pojmy jako 'game', 'set', 'match'?",
+        "answer": "Tenis",
+        "wrong_answers": ["Volejbal", "Badminton", "Stolní tenis"]
+      },
+      {
+        "value": 500,
+        "question": "Které město hostilo letní olympijské hry v roce 2016?",
+        "answer": "Rio de Janeiro",
+        "wrong_answers": ["Londýn", "Tokio", "Paříž"]
+      }
+    ],
+    "Kultura": [
+      {
+        "value": 100,
+        "question": "Kdo napsal pohádku ‚O Pejskovi a Kočičce‘?",
+        "answer": "Josef Čapek",
+        "wrong_answers": ["Karel Čapek", "Božena Němcová", "Jan Werich"]
+      },
+      {
+        "value": 200,
+        "question": "Který hudební nástroj má klávesy a struny?",
+        "answer": "Klavír",
+        "wrong_answers": ["Housle", "Flétna", "Kytara"]
+      },
+      {
+        "value": 300,
+        "question": "Kdo namaloval slavný obraz Mona Lisa?",
+        "answer": "Leonardo da Vinci",
+        "wrong_answers": ["Michelangelo", "Vincent van Gogh", "Pablo Picasso"]
+      },
+      {
+        "value": 400,
+        "question": "Který spisovatel napsal dílo ‚Babička‘?",
+        "answer": "Božena Němcová",
+        "wrong_answers": ["Karel Hynek Mácha", "Alois Jirásek", "Jan Neruda"]
+      },
+      {
+        "value": 500,
+        "question": "Jak se jmenuje slavný český muzikál o středověku, kde hraje Karel Gott?",
+        "answer": "Noc na Karlštejně",
+        "wrong_answers": ["Dracula", "Jesus Christ Superstar", "Kleopatra"]
+      }
+    ],
+    "Geografie": [
+      {
+        "value": 100,
+        "question": "Hlavní město České republiky je:",
+        "answer": "Praha",
+        "wrong_answers": ["Brno", "Plzeň", "Ostrava"]
+      },
+      {
+        "value": 200,
+        "question": "Nejdelší česká řeka je:",
+        "answer": "Vltava",
+        "wrong_answers": ["Labe", "Morava", "Sázava"]
+      },
+      {
+        "value": 300,
+        "question": "Na kterém kontinentu leží Egypt?",
+        "answer": "Afrika",
+        "wrong_answers": ["Asie", "Evropa", "Austrálie"]
+      },
+      {
+        "value": 400,
+        "question": "Jak se jmenuje nejvyšší hora světa?",
+        "answer": "Mount Everest",
+        "wrong_answers": ["K2", "Mont Blanc", "Kilimandžáro"]
+      },
+      {
+        "value": 500,
+        "question": "Který oceán je největší na Zemi?",
+        "answer": "Tichý oceán",
+        "wrong_answers": ["Atlantský oceán", "Indický oceán", "Severní ledový oceán"]
+      }
+    ]
+  }
+}
