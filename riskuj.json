@@ -199,9 +199,9 @@
       },
       {
         "value": 200,
-        "question": "Jak se jmenuje český influencer, který natáčí videa o vaření a má přezdívku podle jídla?",
-        "answer": "Pekelná kuchyně – Přemek Forejt",
-        "wrong_answers": ["Karel Kovář", "Stejk", "VláďaVideos"]
+       "question": "Kdo z těchto influencerů se proslavil parkourem?",
+        "answer": "Tary",
+        "wrong_answers": ["Stejk", "Kovy", "Annie Camel"]
       },
       {
         "value": 300,
@@ -211,20 +211,20 @@
       },
       {
         "value": 400,
-        "question": "Která influencerka je známá svým stylem a pořadem ‚U Kulatého stolu‘?",
-        "answer": "Shopaholic Nicol",
+        "question": "Jaká byla první písnička na ytb Naty Hrychové",
+        "answer": "Pátá",
         "wrong_answers": ["Anna Šulc", "DomiNiky", "Karin Ann"]
       },
       {
         "value": 500,
-        "question": "Kdo z těchto influencerů se proslavil parkourem?",
-        "answer": "Tary",
-        "wrong_answers": ["Stejk", "Kovy", "Annie Camel"]
+          "question": "Kdo vydělává nejvíce z youtube v ČR",
+        "answer": "Fizi",
+        "wrong_answers": ["Anna Šulc", "DomiNiky", "Karin Ann"]
       },
       {
         "value": 600,
         "question": "Který český influencer se stal tváří značky Red Bull a natáčí extrémní videa?",
-        "answer": "MenT",
+        "answer": "Nikos",
         "wrong_answers": ["Fizzy", "Kovy", "Tary"]
       }
     ],
@@ -308,9 +308,11 @@
     "Filmy": [
       {
         "value": 100,
-        "question": "Kdo hraje hlavní roli ve filmu ‚Harry Potter‘?",
-        "answer": "Daniel Radcliffe",
-        "wrong_answers": ["Rupert Grint", "Tom Holland", "Robert Pattinson"]
+        
+ "question": "Z jakého filmu je hláška:Matýsek se posral",
+        "answer": "Stebou mě baví svět",
+        "wrong_answers": ["Pelíšky", "Vesničko má středisková", "Slunce seno jahody"]
+        
       },
       {
         "value": 200,
@@ -320,9 +322,9 @@
       },
       {
         "value": 300,
-        "question": "Který český film je známý hláškou ‚To se mi snad zdá!‘?",
-        "answer": "S tebou mě baví svět",
-        "wrong_answers": ["Pelíšky", "Samotáři", "Vesničko má středisková"]
+        "question": "Kdo hraje hlavní roli ve filmu ‚Harry Potter‘?",
+        "answer": "Daniel Radcliffe",
+        "wrong_answers": ["Rupert Grint", "Tom Holland", "Robert Pattinson"]
       },
       {
         "value": 400,
@@ -359,8 +361,8 @@
       {
         "value": 300,
         "question": "Která část stromu vyrůstá ze země?",
-        "answer": "Kořen",
-        "wrong_answers": ["Kmen", "List", "Větev"]
+        "answer": "Kmen",
+        "wrong_answers": ["Kořen", "List", "Větev"]
       },
       {
         "value": 400,
@@ -377,7 +379,7 @@
       {
         "value": 600,
         "question": "Jak se nazývá přeměna housenky v motýla?",
-        "answer": "Proměna (metamorfóza)",
+        "answer": "metamorfóza",
         "wrong_answers": ["Fotosyntéza", "Mutace", "Rozklad"]
       }
     ]
