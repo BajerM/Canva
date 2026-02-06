@@ -242,10 +242,11 @@
         "wrong_answers": ["Linux", "MacOS", "Android"]
       },
       {
-        "value": 300,
-        "question": "Jak se jmenuje základní jednotka informace?",
-        "answer": "Bit",
-        "wrong_answers": ["Byte", "Pixel", "File"]
+        "value": 500,
+        "question": "Jaký program slouží k psaní textů ve Windows?",
+        "answer": "Microsoft Word",
+        "wrong_answers": ["Excel", "PowerPoint", "Paint"]
+      
       },
       {
         "value": 400,
@@ -254,10 +255,10 @@
         "wrong_answers": ["Steve Jobs", "Mark Zuckerberg", "Elon Musk"]
       },
       {
-        "value": 500,
-        "question": "Jaký program slouží k psaní textů ve Windows?",
-        "answer": "Microsoft Word",
-        "wrong_answers": ["Excel", "PowerPoint", "Paint"]
+          "value": 300,
+        "question": "Jak se jmenuje základní jednotka informace?",
+        "answer": "Bit",
+        "wrong_answers": ["Byte", "Pixel", "File"]
       },
       {
         "value": 600,
