@@ -242,7 +242,7 @@
         "wrong_answers": ["Linux", "MacOS", "Android"]
       },
       {
-        "value": 500,
+        "value": 300,
         "question": "Jaký program slouží k psaní textů ve Windows?",
         "answer": "Microsoft Word",
         "wrong_answers": ["Excel", "PowerPoint", "Paint"]
@@ -255,13 +255,13 @@
         "wrong_answers": ["Steve Jobs", "Mark Zuckerberg", "Elon Musk"]
       },
       {
-          "value": 300,
+          "value": 600,
         "question": "Jak se jmenuje základní jednotka informace?",
         "answer": "Bit",
         "wrong_answers": ["Byte", "Pixel", "File"]
       },
       {
-        "value": 600,
+        "value": 500,
         "question": "Jak se nazývá proces, kdy se do programu vkládá škodlivý kód?",
         "answer": "Hackování",
         "wrong_answers": ["Programování", "Skenování", "Komprimace"]
