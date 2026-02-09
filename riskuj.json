@@ -254,18 +254,19 @@
         "answer": "Bill Gates",
         "wrong_answers": ["Steve Jobs", "Mark Zuckerberg", "Elon Musk"]
       },
+       {
+        "value": 500,
+        "question": "Jak se nazývá proces, kdy se do programu vkládá škodlivý kód?",
+        "answer": "Hackování",
+        "wrong_answers": ["Programování", "Skenování", "Komprimace"]
+      },
       {
           "value": 600,
         "question": "Jak se jmenuje základní jednotka informace?",
         "answer": "Bit",
         "wrong_answers": ["Byte", "Pixel", "File"]
-      },
-      {
-        "value": 500,
-        "question": "Jak se nazývá proces, kdy se do programu vkládá škodlivý kód?",
-        "answer": "Hackování",
-        "wrong_answers": ["Programování", "Skenování", "Komprimace"]
       }
+     
     ],
     "Angličtina": [
       {
