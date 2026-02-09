@@ -3,9 +3,9 @@
     "Historie": [
       {
         "value": 100,
-        "question": "Kdo byl prvním československým prezidentem?",
-        "answer": "TGM",
-        "wrong_answers": ["Edvard Beneš", "Klement Gottwald", "Jan Masaryk"]
+        "question": "Který prezident se skrývá pod zkratkou TGM?",
+        "answer": "Masaryk",
+        "wrong_answers": ["Beneš", "Gottwald", "Havel"]
       },
       {
         "value": 200,
@@ -15,27 +15,27 @@
       },
       {
         "value": 300,
-        "question": "Jak se jmenoval český král, který založil Karlovu univerzitu?",
-        "answer": "Karel IV.",
-        "wrong_answers": ["Václav IV.", "Přemysl Otakar II.", "Jan Lucemburský"]
+        "question": "Který Karel založil Karlovu univerzitu?",
+        "answer": "Čtvrtý",
+        "wrong_answers": ["Třetí", "Pátý", "Šestý"]
       },
       {
         "value": 400,
-        "question": "Jak se nazývalo období vlády komunistické strany v Československu?",
+        "question": "Jakým jedním slovem označujeme vládu jedné strany (např. KSČ)?",
         "answer": "Totalita",
-        "wrong_answers": ["Monarchie", "Demokracie", "První republika"]
+        "wrong_answers": ["Monarchie", "Demokracie", "Republika"]
       },
       {
         "value": 500,
-        "question": "Které město bylo v roce 1989 centrem Sametové revoluce?",
+        "question": "Které město bylo centrem Sametové revoluce?",
         "answer": "Praha",
         "wrong_answers": ["Brno", "Bratislava", "Ostrava"]
       },
       {
         "value": 600,
-        "question": "Jak se jmenovala událost, která spustila první světovou válku?",
-        "answer": "Sarajevský atentát",
-        "wrong_answers": ["Versailleská smlouva", "Pakt Ribbentrop–Molotov", "Mnichovská dohoda"]
+        "question": "Ve kterém městě byl spáchán atentát, který začal 1. světovou válku?",
+        "answer": "Sarajevo",
+        "wrong_answers": ["Vídeň", "Berlín", "Paříž"]
       }
     ],
     "Hlavní města Evropy": [
@@ -47,31 +47,31 @@
       },
       {
         "value": 200,
-        "question": "Slovensko",
+        "question": "Slovensko?",
         "answer": "Bratislava",
-        "wrong_answers": ["Praha", "Itálie", "Košice"]
+        "wrong_answers": ["Praha", "Nitra", "Košice"]
       },
       {
         "value": 300,
-        "question": "Itálie",
+        "question": "Itálie?",
         "answer": "Řím",
-        "wrong_answers": ["Verona", "Istambul", "Miláno"]
+        "wrong_answers": ["Verona", "Neapol", "Miláno"]
       },
       {
         "value": 400,
-        "question": "Makedonie",
+        "question": "Severní Makedonie?",
         "answer": "Skopje",
-        "wrong_answers": ["Řím", "Budapešť", "Skopie"]
+        "wrong_answers": ["Řím", "Budapešť", "Sofie"]
       },
       {
         "value": 500,
-        "question": "Estonsko",
+        "question": "Estonsko?",
         "answer": "Tallin",
-        "wrong_answers": ["Pussi", "Tansalut", "Narva"]
+        "wrong_answers": ["Riga", "Vilnius", "Helsinky"]
       },
       {
         "value": 600,
-        "question": "Moldavsko",
+        "question": "Moldavsko?",
         "answer": "Kišiněv",
         "wrong_answers": ["Paříž", "Budapešť", "Mnichov"]
       }
@@ -87,7 +87,7 @@
         "value": 200,
         "question": "Jaká je chemická značka vody?",
         "answer": "H2O",
-        "wrong_answers": ["O₂", "CO₂", "H₂"]
+        "wrong_answers": ["O2", "CO2", "H2"]
       },
       {
         "value": 300,
@@ -103,13 +103,13 @@
       },
       {
         "value": 500,
-        "question": "Který vědec formuloval teorii relativity?",
-        "answer": "Albert Einstein",
-        "wrong_answers": ["Isaac Newton", "Nikola Tesla", "Stephen Hawking"]
+        "question": "Jaké bylo příjmení vědce Alberta, který vymyslel teorii relativity?",
+        "answer": "Einstein",
+        "wrong_answers": ["Newton", "Tesla", "Hawking"]
       },
       {
         "value": 600,
-        "question": "Jak se nazývá síla, která přitahuje tělesa k Zemi?",
+        "question": "Jak se nazývá síla, která nás drží na Zemi?",
         "answer": "Gravitace",
         "wrong_answers": ["Tlak", "Magnetismus", "Elektřina"]
       }
@@ -117,37 +117,37 @@
     "Sport": [
       {
         "value": 100,
-        "question": "Kolik hráčů je na hřišti v jednom týmu při fotbale?",
+        "question": "Kolik hráčů jednoho týmu je na hřišti při fotbale?",
         "answer": "11",
         "wrong_answers": ["10", "12", "9"]
       },
       {
         "value": 200,
-        "question": "Jak se jmenuje nejslavnější český hokejista?",
-        "answer": "Jaromír Jágr",
-        "wrong_answers": ["Dominik Hašek", "Pavel Nedvěd", "Patrik Schick"]
+        "question": "Který český hokejista nosil číslo 68?",
+        "answer": "Jágr",
+        "wrong_answers": ["Hašek", "Nedvěd", "Eliáš"]
       },
       {
         "value": 300,
-        "question": "Kolik minut trvá běžný fotbalový zápas (bez prodloužení)?",
-        "answer": "90 minut",
-        "wrong_answers": ["80 minut", "100 minut", "70 minut"]
+        "question": "Kolik minut trvá fotbalový zápas?",
+        "answer": "90",
+        "wrong_answers": ["80", "100", "60"]
       },
       {
         "value": 400,
-        "question": "Ve kterém sportu se používá pojmy jako 'game', 'set', 'match'?",
+        "question": "V jakém sportu se počítá na 'gamy' a 'sety'?",
         "answer": "Tenis",
-        "wrong_answers": ["Volejbal", "Badminton", "Stolní tenis"]
+        "wrong_answers": ["Volejbal", "Badminton", "Squash"]
       },
       {
         "value": 500,
-        "question": "Které město hostilo letní olympijské hry v roce 2016?",
-        "answer": "Rio de Janeiro",
+        "question": "V jakém brazilském městě byla olympiáda 2016?",
+        "answer": "Rio",
         "wrong_answers": ["Londýn", "Tokio", "Paříž"]
       },
       {
         "value": 600,
-        "question": "Která země vyhrála fotbalové mistrovství světa v roce 2018?",
+        "question": "Která země vyhrála fotbalové MS 2018?",
         "answer": "Francie",
         "wrong_answers": ["Brazílie", "Německo", "Argentina"]
       }
@@ -155,53 +155,53 @@
     "Kultura": [
       {
         "value": 100,
-        "question": "Kdo napsal pohádku ‚O Pejskovi a Kočičce‘?",
-        "answer": "Josef Čapek",
-        "wrong_answers": ["Karel Čapek", "Božena Němcová", "Jan Werich"]
+        "question": "Kdo napsal Povídaní o Pejskovi a Kočičce (příjmení)?",
+        "answer": "Čapek",
+        "wrong_answers": ["Lada", "Němcová", "Werich"]
       },
       {
         "value": 200,
-        "question": "Který hudební nástroj má klávesy a struny?",
+        "question": "Který nástroj má černé a bílé klávesy?",
         "answer": "Klavír",
         "wrong_answers": ["Housle", "Flétna", "Kytara"]
       },
       {
         "value": 300,
-        "question": "Kdo namaloval slavný obraz Mona Lisa?",
-        "answer": "Leonardo da Vinci",
-        "wrong_answers": ["Michelangelo", "Vincent van Gogh", "Pablo Picasso"]
+        "question": "Jak se jmenuje záhadná žena na obraze Leonarda da Vinciho?",
+        "answer": "Mona Lisa",
+        "wrong_answers": ["Venuše", "Madona", "Dáma s hranostajem"]
       },
       {
         "value": 400,
-        "question": "Který spisovatel napsal dílo ‚Babička‘?",
-        "answer": "Božena Němcová",
-        "wrong_answers": ["Karel Hynek Mácha", "Alois Jirásek", "Jan Neruda"]
+        "question": "Jaké je příjmení autorky Babičky?",
+        "answer": "Němcová",
+        "wrong_answers": ["Světlá", "Krásnohorská", "Destinnová"]
       },
       {
         "value": 500,
-        "question": "Jak se jmenuje slavný český muzikál o středověku, kde hraje Karel Gott?",
-        "answer": "Noc na Karlštejně",
-        "wrong_answers": ["Dracula", "Jesus Christ Superstar", "Kleopatra"]
+        "question": "Doplň název muzikálu: Noc na ...?",
+        "answer": "Karlštejně",
+        "wrong_answers": ["Křivoklátě", "Hluboké", "Bezdězu"]
       },
       {
         "value": 600,
-        "question": "Jak se jmenuje známý obraz Vincenta van Gogha s noční oblohou?",
+        "question": "Jak se jmenuje slavný obraz van Gogha s noční oblohou?",
         "answer": "Hvězdná noc",
-        "wrong_answers": ["Slunečnice", "Křik", "Poslední večeře"]
+        "wrong_answers": ["Slunečnice", "Křik", "Lekníny"]
       }
     ],
     "Geografie": [
       {
         "value": 100,
-        "question": "Hlavní město České republiky je:",
+        "question": "Jaké je hlavní město ČR?",
         "answer": "Praha",
         "wrong_answers": ["Brno", "Plzeň", "Ostrava"]
       },
       {
         "value": 200,
-        "question": "Nejdelší česká řeka je:",
+        "question": "Jak se jmenuje nejdelší česká řeka?",
         "answer": "Vltava",
-        "wrong_answers": ["Labe", "Morava", "Sázava"]
+        "wrong_answers": ["Labe", "Morava", "Odra"]
       },
       {
         "value": 300,
@@ -212,626 +212,626 @@
       {
         "value": 400,
         "question": "Jak se jmenuje nejvyšší hora světa?",
-        "answer": "Mount Everest",
+        "answer": "Everest",
         "wrong_answers": ["K2", "Mont Blanc", "Kilimandžáro"]
       },
       {
         "value": 500,
-        "question": "Který oceán je největší na Zemi?",
-        "answer": "Tichý oceán",
-        "wrong_answers": ["Atlantský oceán", "Indický oceán", "Severní ledový oceán"]
+        "question": "Který oceán je největší?",
+        "answer": "Tichý",
+        "wrong_answers": ["Atlantský", "Indický", "Severní"]
       },
       {
         "value": 600,
         "question": "Jak se jmenuje největší poušť světa?",
         "answer": "Sahara",
-        "wrong_answers": ["Gobi", "Atacama", "Arabská poušť"]
+        "wrong_answers": ["Gobi", "Atacama", "Kalahari"]
       }
     ],
     "Influenceři": [
       {
         "value": 100,
-        "question": "Který český youtuber je známý sérií 'MenT’s life'?",
+        "question": "Jak se jmenuje youtuber ze skupiny MenT's Life?",
         "answer": "MenT",
         "wrong_answers": ["Tary", "Pedro", "Duklock"]
       },
       {
         "value": 200,
-        "question": "Kdo z těchto influencerů se proslavil parkourem?",
+        "question": "Který influencer skáče parkour?",
         "answer": "Tary",
         "wrong_answers": ["Stejk", "Kovy", "Annie Camel"]
       },
       {
         "value": 300,
-        "question": "Kdo je známý jako 'Kovy' na YouTube?",
-        "answer": "Karel Kovář",
-        "wrong_answers": ["MenT", "Tary", "Shopaholic Nicol"]
+        "question": "Pod jakou přezdívkou známe Karla Kováře?",
+        "answer": "Kovy",
+        "wrong_answers": ["MenT", "Gejmr", "Jirka"]
       },
       {
         "value": 400,
-        "question": "Jaká byla první písnička na ytb Naty Hrychové",
+        "question": "Jak se jmenovala první písnička Naty Hrychové?",
         "answer": "Pátá",
-        "wrong_answers": ["Anna Šulc", "DomiNiky", "Karin Ann"]
+        "wrong_answers": ["Šestá", "První", "Láska"]
       },
       {
         "value": 500,
-        "question": "Kdo vydělává nejvíce z youtube v ČR",
+        "question": "Který youtuber je známý pro své 'šílené' experimenty a hodně peněz?",
         "answer": "Fizi",
-        "wrong_answers": ["Anna Šulc", "DomiNiky", "Karin Ann"]
+        "wrong_answers": ["Kovy", "Baxtrix", "Wedry"]
       },
       {
         "value": 600,
-        "question": "Který český influencer se stal tváří značky Red Bull a natáčí extrémní videa?",
+        "question": "Jak se jmenuje influencer spojený s Red Bullem (extrémní videa)?",
         "answer": "Nikos",
-        "wrong_answers": ["Fizzy", "Kovy", "Tary"]
+        "wrong_answers": ["Fizi", "Kovy", "Tary"]
       }
     ],
     "Informatika": [
       {
         "value": 100,
-        "question": "Co znamená zkratka PC?",
-        "answer": "Personal Computer",
-        "wrong_answers": ["Public Connection", "Private Code", "Program Control"]
+        "question": "Jakou zkratkou označujeme Osobní Počítač?",
+        "answer": "PC",
+        "wrong_answers": ["OP", "CPU", "IT"]
       },
       {
         "value": 200,
-        "question": "Který operační systém vytvořila firma Microsoft?",
+        "question": "Jak se jmenuje operační systém od Microsoftu?",
         "answer": "Windows",
         "wrong_answers": ["Linux", "MacOS", "Android"]
       },
       {
         "value": 300,
-        "question": "Jaký program slouží k psaní textů ve Windows?",
-        "answer": "Microsoft Word",
+        "question": "Doplň název programu na psaní: Microsoft ...?",
+        "answer": "Word",
         "wrong_answers": ["Excel", "PowerPoint", "Paint"]
       },
       {
         "value": 400,
-        "question": "Kdo je zakladatelem firmy Microsoft?",
-        "answer": "Bill Gates",
-        "wrong_answers": ["Steve Jobs", "Mark Zuckerberg", "Elon Musk"]
+        "question": "Jak se jmenuje zakladatel Microsoftu (příjmení)?",
+        "answer": "Gates",
+        "wrong_answers": ["Jobs", "Musk", "Zuckerberg"]
       },
       {
         "value": 500,
-        "question": "Jak se nazývá proces, kdy se do programu vkládá škodlivý kód?",
+        "question": "Jak říkáme nelegálnímu prolamování do počítačů?",
         "answer": "Hackování",
-        "wrong_answers": ["Programování", "Skenování", "Komprimace"]
+        "wrong_answers": ["Programování", "Skenování", "Google"]
       },
       {
         "value": 600,
-        "question": "Jak se jmenuje základní jednotka informace?",
+        "question": "Jak se jmenuje nejmenší jednotka informace (0 nebo 1)?",
         "answer": "Bit",
-        "wrong_answers": ["Byte", "Pixel", "File"]
+        "wrong_answers": ["Byte", "Mega", "Giga"]
       }
     ],
     "Angličtina": [
       {
         "value": 100,
-        "question": "Jak se anglicky řekne ‚kočka‘?",
+        "question": "Přelož do angličtiny: Kočka",
         "answer": "Cat",
         "wrong_answers": ["Dog", "Cow", "Mouse"]
       },
       {
         "value": 200,
-        "question": "Jaký je minulý čas slovesa ‚go‘?",
+        "question": "Přelož do angličtiny: Jít (Go) v minulém čase",
         "answer": "Went",
-        "wrong_answers": ["Goed", "Goes", "Goesed"]
+        "wrong_answers": ["Goed", "Gone", "Going"]
       },
       {
         "value": 300,
-        "question": "Co znamená anglické slovo ‚blue‘?",
+        "question": "Jaká barva je 'Blue'?",
         "answer": "Modrá",
         "wrong_answers": ["Zelená", "Žlutá", "Červená"]
       },
       {
         "value": 400,
-        "question": "Jak se přeloží věta ‚I like school‘?",
-        "answer": "Mám rád školu",
-        "wrong_answers": ["Jdu do školy", "Nemám rád školu", "Škola je zavřená"]
+        "question": "Doplň sloveso: I ... school (mám rád).",
+        "answer": "Like",
+        "wrong_answers": ["Love", "Hate", "Go"]
       },
       {
         "value": 500,
-        "question": "Jak se anglicky řekne ‚včera‘?",
+        "question": "Přelož do angličtiny: Včera",
         "answer": "Yesterday",
-        "wrong_answers": ["Tomorrow", "Today", "Morning"]
+        "wrong_answers": ["Tomorrow", "Today", "Now"]
       },
       {
         "value": 600,
-        "question": "Jaký je správný překlad věty ‚She has been there before‘?",
-        "answer": "Už tam byla dříve",
-        "wrong_answers": ["Půjde tam zítra", "Nikdy tam nebyla", "Byla tam právě teď"]
+        "question": "Přelož do angličtiny slovo: Nikdy",
+        "answer": "Never",
+        "wrong_answers": ["Always", "Sometimes", "Often"]
       }
     ],
     "Filmy": [
       {
         "value": 100,
-        "question": "Z jaké komedie je hláška: 'Matýsek se posral'?",
-        "answer": "S tebou mě baví svět",
-        "wrong_answers": ["Pelíšky", "Vesničko má středisková", "Slunce seno jahody"]
+        "question": "Doplň hlášku: ... se posral.",
+        "answer": "Matýsek",
+        "wrong_answers": ["Pepíček", "Jenifer", "Kája"]
       },
       {
         "value": 200,
-        "question": "Která postava říká větu ‚Já jsem tvůj otec‘?",
-        "answer": "Darth Vader",
-        "wrong_answers": ["Luke Skywalker", "Han Solo", "Yoda"]
+        "question": "Kdo řekl: 'Já jsem tvůj otec'?",
+        "answer": "Vader",
+        "wrong_answers": ["Yoda", "Luke", "Han"]
       },
       {
         "value": 300,
-        "question": "Kdo hraje hlavní roli ve filmu ‚Harry Potter‘?",
-        "answer": "Daniel Radcliffe",
-        "wrong_answers": ["Rupert Grint", "Tom Holland", "Robert Pattinson"]
+        "question": "Jak se jmenuje herec, který hrál Harryho Pottera (příjmení)?",
+        "answer": "Radcliffe",
+        "wrong_answers": ["Grint", "Watson", "Felton"]
       },
       {
         "value": 400,
-        "question": "Jak se jmenuje studio, které natočilo film ‚Toy Story‘?",
+        "question": "Které studio natočilo Toy Story?",
         "answer": "Pixar",
-        "wrong_answers": ["DreamWorks", "Disney", "Universal"]
+        "wrong_answers": ["Disney", "DreamWorks", "Sony"]
       },
       {
         "value": 500,
-        "question": "Kdo režíroval film ‚Titanic‘?",
-        "answer": "James Cameron",
-        "wrong_answers": ["Steven Spielberg", "Christopher Nolan", "Peter Jackson"]
+        "question": "Jak se jmenovala loď, která se potopila v roce 1912?",
+        "answer": "Titanic",
+        "wrong_answers": ["Olympic", "Britannic", "Carpathia"]
       },
       {
         "value": 600,
-        "question": "Jak se jmenuje film, ve kterém postava žije události stále dokola?",
-        "answer": "Na Hromnice o den více",
-        "wrong_answers": ["Matrix", "Počátek", "Tenet"]
+        "question": "Ve kterém filmu prožívá Bill Murray stejný den stále dokola?",
+        "answer": "Hromnice",
+        "wrong_answers": ["Vánoce", "Velikonoce", "Silvestr"]
       }
     ],
     "Příroda": [
       {
         "value": 100,
-        "question": "Kolik noh má pavouk?",
+        "question": "Kolik nohou má pavouk?",
         "answer": "8",
-        "wrong_answers": ["6", "10", "4"]
+        "wrong_answers": ["6", "10", "12"]
       },
       {
         "value": 200,
-        "question": "Jak se nazývá mládě krávy?",
+        "question": "Jak se jmenuje mládě krávy?",
         "answer": "Tele",
-        "wrong_answers": ["Kůzle", "Sele", "Jelenče"]
+        "wrong_answers": ["Jehně", "Kůzle", "Hříbě"]
       },
       {
         "value": 300,
-        "question": "Která část stromu vyrůstá ze země?",
-        "answer": "Kmen",
-        "wrong_answers": ["Kořen", "List", "Větev"]
+        "question": "Která část stromu je pod zemí?",
+        "answer": "Kořen",
+        "wrong_answers": ["Kmen", "Větev", "List"]
       },
       {
         "value": 400,
-        "question": "Jaký plyn rostliny uvolňují při fotosyntéze?",
+        "question": "Jaký plyn dýcháme?",
         "answer": "Kyslík",
-        "wrong_answers": ["Dusík", "Oxid uhličitý", "Vodík"]
+        "wrong_answers": ["Dusík", "Vodík", "Helium"]
       },
       {
         "value": 500,
-        "question": "Jak se nazývá místo, kde žijí tučňáci?",
+        "question": "Kde žijí tučňáci (Jižní pól)?",
         "answer": "Antarktida",
-        "wrong_answers": ["Arktida", "Sibiř", "Island"]
+        "wrong_answers": ["Arktida", "Grónsko", "Aljaška"]
       },
       {
         "value": 600,
-        "question": "Jak se nazývá přeměna housenky v motýla?",
-        "answer": "metamorfóza",
-        "wrong_answers": ["Fotosyntéza", "Mutace", "Rozklad"]
+        "question": "Jak se odborně říká přeměně housenky v motýla?",
+        "answer": "Metamorfóza",
+        "wrong_answers": ["Fotosyntéza", "Symbióza", "Evoluce"]
       }
     ],
     "Harry Potter": [
       {
         "value": 100,
-        "question": "Jak se jmenuje škola čar a kouzel?",
+        "question": "Jak se jmenuje kouzelnická škola?",
         "answer": "Bradavice",
-        "wrong_answers": ["Krásnohůlky", "Kruval", "Azkaban"]
+        "wrong_answers": ["Krásnohůlky", "Kruval", "Oxford"]
       },
       {
         "value": 200,
-        "question": "Do jaké koleje chodil Harry Potter?",
+        "question": "V jaké koleji byl Harry Potter?",
         "answer": "Nebelvír",
         "wrong_answers": ["Zmijozel", "Mrzimor", "Havraspár"]
       },
       {
         "value": 300,
-        "question": "Jak se jmenuje sport, který se hraje na létajících košťatech?",
+        "question": "Jak se jmenuje sport na košťatech?",
         "answer": "Famfrpál",
-        "wrong_answers": ["Létající fotbal", "Košťatová", "Zlatonka"]
+        "wrong_answers": ["Fotbal", "Létání", "Honička"]
       },
       {
         "value": 400,
-        "question": "Jak zní zaklínadlo pro odzbrojení soupeře?",
-        "answer": "Expelliarmus",
-        "wrong_answers": ["Avada Kedavra", "Lumos", "Alohomora"]
+        "question": "Doplň zaklínadlo: ... Kedavra!",
+        "answer": "Avada",
+        "wrong_answers": ["Abra", "Imperio", "Crucio"]
       },
       {
         "value": 500,
-        "question": "Jak se jmenoval kmotr Harryho Pottera?",
-        "answer": "Sirius Black",
-        "wrong_answers": ["Remus Lupin", "Severus Snape", "Albus Brumbál"]
+        "question": "Jak se jmenoval Harryho kmotr (příjmení)?",
+        "answer": "Black",
+        "wrong_answers": ["Lupin", "Snape", "Potter"]
       },
       {
         "value": 600,
-        "question": "Co je to 'viteál'?",
-        "answer": "Předmět s částí duše",
-        "wrong_answers": ["Kouzelný lektvar", "Kámen mudrců", "Neviditelný plášť"]
+        "question": "Jak se nazývá předmět, do kterého čaroděj ukryje část duše?",
+        "answer": "Viteál",
+        "wrong_answers": ["Amulet", "Kámen", "Prsten"]
       }
     ],
     "Fotbal": [
       {
         "value": 100,
-        "question": "Čím se nesmí ve fotbale hrát (kromě brankáře)?",
-        "answer": "Rukou",
-        "wrong_answers": ["Hlavou", "Hrudí", "Kolene"]
+        "question": "Kterou částí těla se nesmí hrát (kromě brankáře)?",
+        "answer": "Ruka",
+        "wrong_answers": ["Hlava", "Noha", "Hruď"]
       },
       {
         "value": 200,
-        "question": "Jakou barvu má karta, která znamená okamžité vyloučení?",
+        "question": "Jaká karta znamená vyloučení?",
         "answer": "Červená",
-        "wrong_answers": ["Žlutá", "Černá", "Modrá"]
+        "wrong_answers": ["Žlutá", "Modrá", "Zelená"]
       },
       {
         "value": 300,
-        "question": "Který klub má přezdívku 'Bílý balet'?",
-        "answer": "Real Madrid",
-        "wrong_answers": ["FC Barcelona", "Manchester United", "Juventus"]
+        "question": "Jak se jmenuje klub z Madridu: Real ...?",
+        "answer": "Madrid",
+        "wrong_answers": ["Barcelona", "Valencia", "Sevilla"]
       },
       {
         "value": 400,
-        "question": "Jak se jmenuje trofej pro nejlepšího fotbalistu světa?",
-        "answer": "Zlatý míč",
-        "wrong_answers": ["Zlatá kopačka", "Zlatý pohár", "Diamantový míč"]
+        "question": "Jaký kov je v názvu trofeje pro nejlepšího hráče světa?",
+        "answer": "Zlato",
+        "wrong_answers": ["Stříbro", "Bronz", "Platina"]
       },
       {
         "value": 500,
-        "question": "Kde se konalo Mistrovství světa ve fotbale v roce 2022?",
+        "question": "V jaké zemi bylo MS 2022?",
         "answer": "Katar",
-        "wrong_answers": ["Rusko", "Brazílie", "USA"]
+        "wrong_answers": ["Rusko", "Německo", "Brazílie"]
       },
       {
         "value": 600,
-        "question": "Kdo je historicky nejlepším střelcem české fotbalové reprezentace?",
-        "answer": "Jan Koller",
-        "wrong_answers": ["Milan Baroš", "Patrik Schick", "Pavel Nedvěd"]
+        "question": "Jaké je příjmení nejvyššího českého útočníka (Dino)?",
+        "answer": "Koller",
+        "wrong_answers": ["Baroš", "Rosický", "Čech"]
       }
     ],
     "Hokej": [
       {
         "value": 100,
-        "question": "Na kolik třetin se hraje hokejový zápas?",
+        "question": "Na kolik třetin se hraje?",
         "answer": "3",
-        "wrong_answers": ["2", "4", "5"]
+        "wrong_answers": ["2", "4", "1"]
       },
       {
         "value": 200,
-        "question": "Jak se jmenuje tvrdá guma, se kterou se hraje?",
+        "question": "Jak se jmenuje černá guma, se kterou se hraje?",
         "answer": "Puk",
-        "wrong_answers": ["Míček", "Kotouč", "Disk"]
+        "wrong_answers": ["Míček", "Koule", "Kostka"]
       },
       {
         "value": 300,
-        "question": "Ve kterém roce vyhráli Češi zlato na olympiádě v Naganu?",
-        "answer": "1998",
-        "wrong_answers": ["2002", "1994", "2010"]
+        "question": "V jakém městě vyhráli Češi olympiádu 1998?",
+        "answer": "Nagano",
+        "wrong_answers": ["Lillehammer", "Salt Lake", "Turín"]
       },
       {
         "value": 400,
-        "question": "Který tým NHL má ve znaku tučňáka?",
-        "answer": "Pittsburgh Penguins",
-        "wrong_answers": ["Boston Bruins", "Chicago Blackhawks", "Anaheim Ducks"]
+        "question": "Které zvíře má ve znaku Pittsburgh?",
+        "answer": "Tučňák",
+        "wrong_answers": ["Medvěd", "Jestřáb", "Tygr"]
       },
       {
         "value": 500,
-        "question": "Co znamená rozhodnutí rozhodčího 'Icing'?",
-        "answer": "Zakázané uvolnění",
-        "wrong_answers": ["Ofsajd", "Faul", "Trestné střílení"]
+        "question": "Kolik minut trvá běžný trest?",
+        "answer": "2",
+        "wrong_answers": ["5", "10", "1"]
       },
       {
         "value": 600,
-        "question": "Kde se konalo MS v hokeji 2024, kde Češi vyhráli zlato?",
-        "answer": "Praha a Ostrava",
-        "wrong_answers": ["Bratislava a Košice", "Helsinky a Tampere", "Riga"]
+        "question": "V jaké zemi bylo MS 2024 (zlato pro Česko)?",
+        "answer": "Česko",
+        "wrong_answers": ["Finsko", "Švédsko", "Kanada"]
       }
     ],
     "Olympiáda": [
       {
         "value": 100,
-        "question": "Kolik kruhů je na olympijské vlajce?",
+        "question": "Kolik je olympijských kruhů?",
         "answer": "5",
-        "wrong_answers": ["4", "6", "7"]
+        "wrong_answers": ["4", "6", "3"]
       },
       {
         "value": 200,
-        "question": "Jak často se konají letní olympijské hry?",
-        "answer": "Jednou za 4 roky",
-        "wrong_answers": ["Každý rok", "Jednou za 2 roky", "Jednou za 5 let"]
+        "question": "Jednou za kolik let je letní olympiáda?",
+        "answer": "4",
+        "wrong_answers": ["2", "1", "5"]
       },
       {
         "value": 300,
-        "question": "Kde vznikly antické olympijské hry?",
-        "answer": "V Řecku",
-        "wrong_answers": ["V Římě", "V Egyptě", "Ve Francii"]
+        "question": "Ve které zemi vznikla olympiáda?",
+        "answer": "Řecko",
+        "wrong_answers": ["Itálie", "Francie", "Egypt"]
       },
       {
         "value": 400,
-        "question": "Ve kterém městě byla letní olympiáda v roce 2024?",
+        "question": "Kde byla olympiáda 2024?",
         "answer": "Paříž",
-        "wrong_answers": ["Londýn", "Tokio", "Los Angeles"]
+        "wrong_answers": ["Londýn", "Řím", "Berlín"]
       },
       {
         "value": 500,
-        "question": "Která česká sportovkyně vyhrála zlato na LOH i ZOH (lyže a snowboard)?",
-        "answer": "Ester Ledecká",
-        "wrong_answers": ["Martina Sáblíková", "Barbora Špotáková", "Gabriela Soukalová"]
+        "question": "Příjmení české vítězky na lyžích i snowboardu?",
+        "answer": "Ledecká",
+        "wrong_answers": ["Sáblíková", "Samková", "Neumannová"]
       },
       {
         "value": 600,
-        "question": "Co symbolizují olympijské kruhy?",
-        "answer": "5 kontinentů",
-        "wrong_answers": ["5 sportů", "5 zakladatelů", "5 barev duhy"]
+        "question": "Co představuje 5 kruhů na vlajce?",
+        "answer": "Kontinenty",
+        "wrong_answers": ["Oceány", "Sporty", "Národy"]
       }
     ],
     "Auta": [
       {
         "value": 100,
-        "question": "Která automobilka má ve znaku čtyři propojené kruhy?",
+        "question": "Která značka má ve znaku 4 kruhy?",
         "answer": "Audi",
-        "wrong_answers": ["BMW", "Mercedes", "Opel"]
+        "wrong_answers": ["BMW", "Opel", "Ford"]
       },
       {
         "value": 200,
-        "question": "Z jaké země pochází značka Ferrari?",
+        "question": "Z jaké země je Ferrari?",
         "answer": "Itálie",
-        "wrong_answers": ["Francie", "Německo", "Španělsko"]
+        "wrong_answers": ["Německo", "Francie", "USA"]
       },
       {
         "value": 300,
-        "question": "Kdo je zakladatelem a ředitelem firmy Tesla?",
-        "answer": "Elon Musk",
-        "wrong_answers": ["Bill Gates", "Jeff Bezos", "Henry Ford"]
+        "question": "Kdo šéfuje Tesle (příjmení)?",
+        "answer": "Musk",
+        "wrong_answers": ["Bezos", "Gates", "Ford"]
       },
       {
         "value": 400,
-        "question": "Jak se jmenuje závodní série nejrychlejších formulí?",
-        "answer": "Formule 1",
-        "wrong_answers": ["Nascar", "Rallye Dakar", "Le Mans"]
+        "question": "Jak se jmenují nejrychlejší závodní formule?",
+        "answer": "F1",
+        "wrong_answers": ["NASCAR", "IndyCar", "Rally"]
       },
       {
         "value": 500,
-        "question": "Co znamená zkratka SUV?",
-        "answer": "Sportovně užitkové vozidlo",
-        "wrong_answers": ["Super ultra výkon", "Standardní užitkový vůz", "Sedan určený ven"]
+        "question": "Která značka vyrábí model Mustang?",
+        "answer": "Ford",
+        "wrong_answers": ["Chevrolet", "Dodge", "Jeep"]
       },
       {
         "value": 600,
-        "question": "Který model Škody se vyráběl dříve: Octavia nebo Favorit?",
-        "answer": "Octavia (veterán)",
-        "wrong_answers": ["Favorit", "Oba stejně", "Felicia"]
+        "question": "Které auto je starší: Octavia (původní) nebo Favorit?",
+        "answer": "Octavia",
+        "wrong_answers": ["Favorit", "Stejně", "Felicia"]
       }
     ],
     "Jídlo": [
       {
         "value": 100,
-        "question": "Z jaké země pochází pizza?",
+        "question": "Odkud je Pizza?",
         "answer": "Itálie",
-        "wrong_answers": ["USA", "Francie", "Španělsko"]
+        "wrong_answers": ["USA", "Francie", "Řecko"]
       },
       {
         "value": 200,
-        "question": "Které ovoce je známé tím, že je žluté a zahnuté?",
+        "question": "Které žluté ovoce je zahnuté?",
         "answer": "Banán",
-        "wrong_answers": ["Citron", "Hruška", "Jablko"]
+        "wrong_answers": ["Citron", "Jablko", "Hruška"]
       },
       {
         "value": 300,
-        "question": "Co je hlavní ingrediencí v sushi?",
+        "question": "Co je hlavní složkou Sushi?",
         "answer": "Rýže",
-        "wrong_answers": ["Těstoviny", "Brambory", "Chleba"]
+        "wrong_answers": ["Nudle", "Brambory", "Chleba"]
       },
       {
         "value": 400,
-        "question": "Jak se nazývá látka v pečivu, na kterou mají někteří lidé alergii?",
+        "question": "Co v pečivu vadí celiakům?",
         "answer": "Lepek",
-        "wrong_answers": ["Laktóza", "Cukr", "Kofein"]
+        "wrong_answers": ["Cukr", "Sůl", "Tuk"]
       },
       {
         "value": 500,
-        "question": "Které koření je nejdražší na světě?",
+        "question": "Jaké je nejdražší koření (červené nitky)?",
         "answer": "Šafrán",
-        "wrong_answers": ["Pepř", "Skořice", "Vanilka"]
+        "wrong_answers": ["Pepř", "Kmín", "Skořice"]
       },
       {
         "value": 600,
-        "question": "Z čeho se vyrábí tofu?",
-        "answer": "Ze sóji",
-        "wrong_answers": ["Z mléka", "Z rýže", "Z mandlí"]
+        "question": "Z čeho se vyrábí Tofu?",
+        "answer": "Sója",
+        "wrong_answers": ["Mléko", "Mandle", "Hrách"]
       }
     ],
     "Marvel a DC": [
       {
         "value": 100,
-        "question": "Jak se jmenuje superhrdina, který leze po zdech a střílí pavučiny?",
-        "answer": "Spider-Man",
-        "wrong_answers": ["Batman", "Iron Man", "Superman"]
+        "question": "Kdo je Peter Parker?",
+        "answer": "Spiderman",
+        "wrong_answers": ["Batman", "Superman", "Flash"]
       },
       {
         "value": 200,
         "question": "Jakou barvu má Hulk?",
         "answer": "Zelenou",
-        "wrong_answers": ["Červenou", "Modrou", "Šedou"]
+        "wrong_answers": ["Červenou", "Modrou", "Žlutou"]
       },
       {
         "value": 300,
-        "question": "Který superhrdina je miliardář Bruce Wayne?",
+        "question": "Kdo je Bruce Wayne?",
         "answer": "Batman",
-        "wrong_answers": ["Iron Man", "Captain America", "Thor"]
+        "wrong_answers": ["Joker", "Robin", "Thor"]
       },
       {
         "value": 400,
-        "question": "Jak se jmenuje kladivo boha Thora?",
+        "question": "Jak se jmenuje Thorovo kladivo?",
         "answer": "Mjolnir",
-        "wrong_answers": ["Stormbreaker", "Excalibur", "Gungnir"]
+        "wrong_answers": ["Sekera", "Meč", "Štít"]
       },
       {
         "value": 500,
-        "question": "Který padouch luskl prsty a vymazal polovinu vesmíru?",
+        "question": "Kdo luskl rukavicí nekonečna?",
         "answer": "Thanos",
-        "wrong_answers": ["Joker", "Loki", "Ultron"]
+        "wrong_answers": ["Loki", "Ultron", "Venom"]
       },
       {
         "value": 600,
-        "question": "Jak se jmenuje rodná planeta Supermana?",
+        "question": "Rodná planeta Supermana?",
         "answer": "Krypton",
-        "wrong_answers": ["Asgard", "Mars", "Vulkán"]
+        "wrong_answers": ["Země", "Mars", "Asgard"]
       }
     ],
     "Matematika a logika": [
       {
         "value": 100,
         "question": "Kolik stupňů má pravý úhel?",
-        "answer": "90°",
-        "wrong_answers": ["180°", "45°", "60°"]
+        "answer": "90",
+        "wrong_answers": ["180", "45", "100"]
       },
       {
         "value": 200,
-        "question": "Jak se jmenuje výsledek při sčítání?",
+        "question": "Jak se jmenuje výsledek sčítání?",
         "answer": "Součet",
         "wrong_answers": ["Rozdíl", "Součin", "Podíl"]
       },
       {
         "value": 300,
-        "question": "Co znamená římská číslice X?",
+        "question": "Jaké číslo je římská X?",
         "answer": "10",
         "wrong_answers": ["5", "50", "100"]
       },
       {
         "value": 400,
-        "question": "Jak se nazývá trojúhelník, který má všechny strany stejně dlouhé?",
+        "question": "Jaký trojúhelník má všechny strany stejné?",
         "answer": "Rovnostranný",
         "wrong_answers": ["Rovnoramenný", "Pravoúhlý", "Obecný"]
       },
       {
         "value": 500,
-        "question": "Kolik je druhá odmocnina z čísla 81?",
+        "question": "Kolik je odmocnina z 81?",
         "answer": "9",
         "wrong_answers": ["8", "7", "6"]
       },
       {
         "value": 600,
-        "question": "Jaká je přibližná hodnota Ludolfova čísla pí (π)?",
-        "answer": "3,14",
-        "wrong_answers": ["2,14", "4,13", "3,41"]
+        "question": "Jak se jmenuje číslo 3,14...?",
+        "answer": "Pí",
+        "wrong_answers": ["Fí", "Ró", "Sigma"]
       }
     ],
     "Počítačové hry": [
       {
         "value": 100,
-        "question": "V jaké hře se těží bloky a craftí nástroje?",
+        "question": "Kde se těží a staví z kostek?",
         "answer": "Minecraft",
-        "wrong_answers": ["Roblox", "Fortnite", "Terraria"]
+        "wrong_answers": ["Roblox", "Terraria", "Lego"]
       },
       {
         "value": 200,
-        "question": "Jaké barvy je postavička Mario?",
-        "answer": "Červená",
-        "wrong_answers": ["Zelená", "Modrá", "Žlutá"]
+        "question": "Jakou barvu má Mario?",
+        "answer": "Červenou",
+        "wrong_answers": ["Zelenou", "Modrou", "Žlutou"]
       },
       {
         "value": 300,
-        "question": "Jak se jmenuje herní měna ve hře Fortnite?",
+        "question": "Měna ve Fortnite?",
         "answer": "V-Bucks",
-        "wrong_answers": ["Robux", "Coins", "Gems"]
+        "wrong_answers": ["Robux", "Gold", "Coins"]
       },
       {
         "value": 400,
-        "question": "Která hra má herní mód 'Battle Royale'?",
+        "question": "Která hra má zkratku PUBG?",
         "answer": "PUBG",
-        "wrong_answers": ["FIFA", "The Sims", "Need for Speed"]
+        "wrong_answers": ["CSGO", "COD", "GTA"]
       },
       {
         "value": 500,
-        "question": "Jak se jmenuje studio, které vytvořilo hru GTA V?",
-        "answer": "Rockstar Games",
-        "wrong_answers": ["Ubisoft", "EA Sports", "Activision"]
+        "question": "Kdo vytvořil GTA V (studio)?",
+        "answer": "Rockstar",
+        "wrong_answers": ["Ubisoft", "EA", "Valve"]
       },
       {
         "value": 600,
-        "question": "Jak se jmenuje hlavní hrdina série The Legend of Zelda?",
+        "question": "Jak se jmenuje hrdina v zeleném ze hry Zelda?",
         "answer": "Link",
-        "wrong_answers": ["Zelda", "Ganon", "Mario"]
+        "wrong_answers": ["Zelda", "Mario", "Ganon"]
       }
     ],
     "Lidské tělo": [
       {
         "value": 100,
-        "question": "Který orgán v těle pumpuje krev?",
+        "question": "Co pumpuje krev?",
         "answer": "Srdce",
         "wrong_answers": ["Plíce", "Játra", "Ledviny"]
       },
       {
         "value": 200,
-        "question": "Kolik má dospělý člověk obvykle zubů (včetně zubů moudrosti)?",
+        "question": "Kolik zubů má dospělý člověk?",
         "answer": "32",
-        "wrong_answers": ["28", "36", "30"]
+        "wrong_answers": ["30", "28", "34"]
       },
       {
         "value": 300,
-        "question": "Jak se jmenuje největší kost v lidském těle?",
-        "answer": "Stehenní kost",
-        "wrong_answers": ["Pažní kost", "Holenní kost", "Páteř"]
+        "question": "Jak se jmenuje největší kost?",
+        "answer": "Stehenní",
+        "wrong_answers": ["Pažní", "Holenní", "Páteř"]
       },
       {
         "value": 400,
-        "question": "Který smysl nám umožňuje vnímat pachy?",
+        "question": "Kterým smyslem cítíme vůně?",
         "answer": "Čich",
         "wrong_answers": ["Chuť", "Hmat", "Sluch"]
       },
       {
         "value": 500,
-        "question": "Jaká je normální tělesná teplota zdravého člověka?",
-        "answer": "36-37 °C",
-        "wrong_answers": ["38-39 °C", "34-35 °C", "40-41 °C"]
+        "question": "Jaká je normální teplota těla (cca)?",
+        "answer": "36,5",
+        "wrong_answers": ["38", "35", "40"]
       },
       {
         "value": 600,
-        "question": "Kde v těle se nachází nejmenší kůstky (kladívko, kovadlinka, třmínek)?",
-        "answer": "V uchu",
-        "wrong_answers": ["V nose", "V prstu", "V koleni"]
+        "question": "Kde jsou kůstky kladívko, kovadlinka a třmínek?",
+        "answer": "Ucho",
+        "wrong_answers": ["Nos", "Oko", "Prst"]
       }
     ],
     "Zeměpis ČR": [
       {
         "value": 100,
-        "question": "S jakým státem má Česká republika nejdelší hranici?",
+        "question": "S kým máme nejdelší hranici?",
         "answer": "Polsko",
         "wrong_answers": ["Německo", "Rakousko", "Slovensko"]
       },
       {
         "value": 200,
-        "question": "Jak se jmenuje nejvyšší hora České republiky?",
+        "question": "Nejvyšší hora ČR?",
         "answer": "Sněžka",
-        "wrong_answers": ["Praděd", "Lysá hora", "Klínovec"]
+        "wrong_answers": ["Praděd", "Klínovec", "Říp"]
       },
       {
         "value": 300,
-        "question": "Ve kterém městě se vyrábí automobily Škoda?",
-        "answer": "Mladá Boleslav",
-        "wrong_answers": ["Plzeň", "Liberec", "Kolín"]
+        "question": "Kde se vyrábí Škodovky?",
+        "answer": "Boleslav",
+        "wrong_answers": ["Plzeň", "Kolín", "Praha"]
       },
       {
         "value": 400,
-        "question": "Do kterého moře odtéká řeka Labe?",
-        "answer": "Severní moře",
-        "wrong_answers": ["Černé moře", "Baltské moře", "Jaderské moře"]
+        "question": "Do jakého moře teče Labe?",
+        "answer": "Severní",
+        "wrong_answers": ["Černé", "Baltské", "Jaderské"]
       },
       {
         "value": 500,
-        "question": "Která česká památka je známá kostnicí?",
+        "question": "Kde je známá kostnice?",
         "answer": "Kutná Hora",
-        "wrong_answers": ["Český Krumlov", "Telč", "Karlštejn"]
+        "wrong_answers": ["Krumlov", "Telč", "Karlštejn"]
       },
       {
         "value": 600,
-        "question": "Jak se jmenuje nejjižnější bod České republiky?",
+        "question": "Jak se jmenuje nejjižnější bod ČR?",
         "answer": "Vyšší Brod",
         "wrong_answers": ["Břeclav", "Znojmo", "Mikulov"]
       }
@@ -839,37 +839,37 @@
     "Hudba": [
       {
         "value": 100,
-        "question": "Kolik strun má obvykle klasická kytara?",
+        "question": "Kolik strun má kytara?",
         "answer": "6",
         "wrong_answers": ["4", "5", "7"]
       },
       {
         "value": 200,
-        "question": "Jak se jmenuje česká národní hymna?",
-        "answer": "Kde domov můj",
-        "wrong_answers": ["Nad Tatrou sa blýska", "Vltava", "Slovanský tanec"]
+        "question": "Doplň hymnu: Kde ... můj?",
+        "answer": "Domov",
+        "wrong_answers": ["Hrad", "Les", "Dům"]
       },
       {
         "value": 300,
-        "question": "Který hudební styl proslavil Michael Jackson?",
-        "answer": "Pop",
-        "wrong_answers": ["Jazz", "Country", "Metal"]
+        "question": "Král popu (příjmení)?",
+        "answer": "Jackson",
+        "wrong_answers": ["Presley", "Mercury", "Bowie"]
       },
       {
         "value": 400,
-        "question": "Co znamená v hudbě italský výraz 'piano'?",
+        "question": "Co znamená 'Piano'?",
         "answer": "Potichu",
         "wrong_answers": ["Nahlas", "Rychle", "Pomalu"]
       },
       {
         "value": 500,
-        "question": "Ze které země pochází hudební styl K-Pop?",
-        "answer": "Jižní Korea",
-        "wrong_answers": ["Japonsko", "Čína", "USA"]
+        "question": "Odkud je K-Pop?",
+        "answer": "Korea",
+        "wrong_answers": ["Japonsko", "Čína", "Thajsko"]
       },
       {
         "value": 600,
-        "question": "Který slavný skladatel byl hluchý, když složil svou 9. symfonii?",
+        "question": "Který skladatel ohluchl?",
         "answer": "Beethoven",
         "wrong_answers": ["Mozart", "Bach", "Dvořák"]
       }
@@ -877,37 +877,37 @@
     "Český jazyk": [
       {
         "value": 100,
-        "question": "Jaké i/y se píše ve slově 'b_t' (existovat)?",
-        "answer": "tvrdé Y",
-        "wrong_answers": ["měkké I", "obojí je správně", "záleží na náladě"]
+        "question": "Být (existovat) - jaké je Y?",
+        "answer": "Tvrdé",
+        "wrong_answers": ["Měkké", "Žádné", "Obojí"]
       },
       {
         "value": 200,
-        "question": "Jak se říká slovům, která mají opačný význam (např. den - noc)?",
+        "question": "Jak se říká slovům opačného významu?",
         "answer": "Antonyma",
         "wrong_answers": ["Synonyma", "Homonyma", "Archaismy"]
       },
       {
         "value": 300,
-        "question": "Urči slovní druh slova 'PĚT'.",
+        "question": "Slovní druh slova 'Pět'?",
         "answer": "Číslovka",
         "wrong_answers": ["Podstatné jméno", "Sloveso", "Přídavné jméno"]
       },
       {
         "value": 400,
-        "question": "Kdo napsal knihu Babička?",
-        "answer": "Božena Němcová",
-        "wrong_answers": ["Karel Čapek", "Karel Jaromír Erben", "Alois Jirásek"]
+        "question": "Autorka Babičky (příjmení)?",
+        "answer": "Němcová",
+        "wrong_answers": ["Světlá", "Krásnohorská", "Honzáková"]
       },
       {
         "value": 500,
-        "question": "Co je to 'metafora'?",
-        "answer": "Přenášení významu na základě podobnosti",
-        "wrong_answers": ["Přirovnání se slovem jako", "Opakování slov na začátku veršů", "Oživování neživých věcí"]
+        "question": "Jak se nazývá přenesení významu na základě podobnosti?",
+        "answer": "Metafora",
+        "wrong_answers": ["Metonymie", "Personifikace", "Přirovnání"]
       },
       {
         "value": 600,
-        "question": "Do kterého vzoru podstatných jmen patří slovo 'STROJ'?",
+        "question": "Vzor slova 'Stroj'?",
         "answer": "Stroj",
         "wrong_answers": ["Hrad", "Pán", "Muž"]
       }
