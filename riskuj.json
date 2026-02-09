@@ -4,7 +4,7 @@
       {
         "value": 100,
         "question": "Kdo byl prvním československým prezidentem?",
-        "answer": "Tomáš Garrigue Masaryk",
+        "answer": "TGM",
         "wrong_answers": ["Edvard Beneš", "Klement Gottwald", "Jan Masaryk"]
       },
       {
@@ -48,7 +48,7 @@
       {
         "value": 200,
         "question": "Jaká je chemická značka vody?",
-        "answer": "H₂O",
+        "answer": "H2O",
         "wrong_answers": ["O₂", "CO₂", "H₂"]
       },
       {
