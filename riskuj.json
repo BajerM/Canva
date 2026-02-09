@@ -190,6 +190,504 @@
         "wrong_answers": ["Slunečnice", "Křik", "Poslední večeře"]
       }
     ],
+    {
+  "Harry Potter": [
+    {
+      "value": 100,
+      "question": "Jak se jmenuje škola čar a kouzel?",
+      "answer": "Bradavice",
+      "wrong_answers": ["Krásnohůlky", "Kruval", "Azkaban"]
+    },
+    {
+      "value": 200,
+      "question": "Do jaké koleje chodil Harry Potter?",
+      "answer": "Nebelvír",
+      "wrong_answers": ["Zmijozel", "Mrzimor", "Havraspár"]
+    },
+    {
+      "value": 300,
+      "question": "Jak se jmenuje sport, který se hraje na létajících košťatech?",
+      "answer": "Famfrpál",
+      "wrong_answers": ["Létající fotbal", "Košťatová", "Zlatonka"]
+    },
+    {
+      "value": 400,
+      "question": "Jak zní zaklínadlo pro odzbrojení soupeře?",
+      "answer": "Expelliarmus",
+      "wrong_answers": ["Avada Kedavra", "Lumos", "Alohomora"]
+    },
+    {
+      "value": 500,
+      "question": "Jak se jmenoval kmotr Harryho Pottera?",
+      "answer": "Sirius Black",
+      "wrong_answers": ["Remus Lupin", "Severus Snape", "Albus Brumbál"]
+    },
+    {
+      "value": 600,
+      "question": "Co je to 'viteál'?",
+      "answer": "Předmět s částí duše",
+      "wrong_answers": ["Kouzelný lektvar", "Kámen mudrců", "Neviditelný plášť"]
+    }
+  ],
+  "Fotbal": [
+    {
+      "value": 100,
+      "question": "Čím se nesmí ve fotbale hrát (kromě brankáře)?",
+      "answer": "Rukou",
+      "wrong_answers": ["Hlavou", "Hrudí", "Kolene"]
+    },
+    {
+      "value": 200,
+      "question": "Jakou barvu má karta, která znamená okamžité vyloučení?",
+      "answer": "Červená",
+      "wrong_answers": ["Žlutá", "Černá", "Modrá"]
+    },
+    {
+      "value": 300,
+      "question": "Který klub má přezdívku 'Bílý balet'?",
+      "answer": "Real Madrid",
+      "wrong_answers": ["FC Barcelona", "Manchester United", "Juventus"]
+    },
+    {
+      "value": 400,
+      "question": "Jak se jmenuje trofej pro nejlepšího fotbalistu světa?",
+      "answer": "Zlatý míč",
+      "wrong_answers": ["Zlatá kopačka", "Zlatý pohár", "Diamantový míč"]
+    },
+    {
+      "value": 500,
+      "question": "Kde se konalo Mistrovství světa ve fotbale v roce 2022?",
+      "answer": "Katar",
+      "wrong_answers": ["Rusko", "Brazílie", "USA"]
+    },
+    {
+      "value": 600,
+      "question": "Kdo je historicky nejlepším střelcem české fotbalové reprezentace?",
+      "answer": "Jan Koller",
+      "wrong_answers": ["Milan Baroš", "Patrik Schick", "Pavel Nedvěd"]
+    }
+  ],
+  "Hokej": [
+    {
+      "value": 100,
+      "question": "Na kolik třetin se hraje hokejový zápas?",
+      "answer": "3",
+      "wrong_answers": ["2", "4", "5"]
+    },
+    {
+      "value": 200,
+      "question": "Jak se jmenuje tvrdá guma, se kterou se hraje?",
+      "answer": "Puk",
+      "wrong_answers": ["Míček", "Kotouč", "Disk"]
+    },
+    {
+      "value": 300,
+      "question": "Ve kterém roce vyhráli Češi zlato na olympiádě v Naganu?",
+      "answer": "1998",
+      "wrong_answers": ["2002", "1994", "2010"]
+    },
+    {
+      "value": 400,
+      "question": "Který tým NHL má ve znaku tučňáka?",
+      "answer": "Pittsburgh Penguins",
+      "wrong_answers": ["Boston Bruins", "Chicago Blackhawks", "Anaheim Ducks"]
+    },
+    {
+      "value": 500,
+      "question": "Co znamená rozhodnutí rozhodčího 'Icing'?",
+      "answer": "Zakázané uvolnění",
+      "wrong_answers": ["Ofsajd", "Faul", "Trestné střílení"]
+    },
+    {
+      "value": 600,
+      "question": "Kde se konalo MS v hokeji 2024, kde Češi vyhráli zlato?",
+      "answer": "Praha a Ostrava",
+      "wrong_answers": ["Bratislava a Košice", "Helsinky a Tampere", "Riga"]
+    }
+  ],
+  "Olympiáda": [
+    {
+      "value": 100,
+      "question": "Kolik kruhů je na olympijské vlajce?",
+      "answer": "5",
+      "wrong_answers": ["4", "6", "7"]
+    },
+    {
+      "value": 200,
+      "question": "Jak často se konají letní olympijské hry?",
+      "answer": "Jednou za 4 roky",
+      "wrong_answers": ["Každý rok", "Jednou za 2 roky", "Jednou za 5 let"]
+    },
+    {
+      "value": 300,
+      "question": "Kde vznikly antické olympijské hry?",
+      "answer": "V Řecku",
+      "wrong_answers": ["V Římě", "V Egyptě", "Ve Francii"]
+    },
+    {
+      "value": 400,
+      "question": "Ve kterém městě byla letní olympiáda v roce 2024?",
+      "answer": "Paříž",
+      "wrong_answers": ["Londýn", "Tokio", "Los Angeles"]
+    },
+    {
+      "value": 500,
+      "question": "Která česká sportovkyně vyhrála zlato na LOH i ZOH (lyže a snowboard)?",
+      "answer": "Ester Ledecká",
+      "wrong_answers": ["Martina Sáblíková", "Barbora Špotáková", "Gabriela Soukalová"]
+    },
+    {
+      "value": 600,
+      "question": "Co symbolizují olympijské kruhy?",
+      "answer": "5 kontinentů",
+      "wrong_answers": ["5 sportů", "5 zakladatelů", "5 barev duhy"]
+    }
+  ],
+  "Auta": [
+    {
+      "value": 100,
+      "question": "Která automobilka má ve znaku čtyři propojené kruhy?",
+      "answer": "Audi",
+      "wrong_answers": ["BMW", "Mercedes", "Opel"]
+    },
+    {
+      "value": 200,
+      "question": "Z jaké země pochází značka Ferrari?",
+      "answer": "Itálie",
+      "wrong_answers": ["Francie", "Německo", "Španělsko"]
+    },
+    {
+      "value": 300,
+      "question": "Kdo je zakladatelem a ředitelem firmy Tesla?",
+      "answer": "Elon Musk",
+      "wrong_answers": ["Bill Gates", "Jeff Bezos", "Henry Ford"]
+    },
+    {
+      "value": 400,
+      "question": "Jak se jmenuje závodní série nejrychlejších formulí?",
+      "answer": "Formule 1",
+      "wrong_answers": ["Nascar", "Rallye Dakar", "Le Mans"]
+    },
+    {
+      "value": 500,
+      "question": "Co znamená zkratka SUV?",
+      "answer": "Sportovně užitkové vozidlo",
+      "wrong_answers": ["Super ultra výkon", "Standardní užitkový vůz", "Sedan určený ven"]
+    },
+    {
+      "value": 600,
+      "question": "Který model Škody se vyráběl dříve: Octavia nebo Favorit?",
+      "answer": "Octavia (veterán)",
+      "wrong_answers": ["Favorit", "Oba stejně", "Felicia"]
+    }
+  ],
+  "Jídlo": [
+    {
+      "value": 100,
+      "question": "Z jaké země pochází pizza?",
+      "answer": "Itálie",
+      "wrong_answers": ["USA", "Francie", "Španělsko"]
+    },
+    {
+      "value": 200,
+      "question": "Které ovoce je známé tím, že je žluté a zahnuté?",
+      "answer": "Banán",
+      "wrong_answers": ["Citron", "Hruška", "Jablko"]
+    },
+    {
+      "value": 300,
+      "question": "Co je hlavní ingrediencí v sushi?",
+      "answer": "Rýže",
+      "wrong_answers": ["Těstoviny", "Brambory", "Chleba"]
+    },
+    {
+      "value": 400,
+      "question": "Jak se nazývá látka v pečivu, na kterou mají někteří lidé alergii?",
+      "answer": "Lepek",
+      "wrong_answers": ["Laktóza", "Cukr", "Kofein"]
+    },
+    {
+      "value": 500,
+      "question": "Které koření je nejdražší na světě?",
+      "answer": "Šafrán",
+      "wrong_answers": ["Pepř", "Skořice", "Vanilka"]
+    },
+    {
+      "value": 600,
+      "question": "Z čeho se vyrábí tofu?",
+      "answer": "Ze sóji",
+      "wrong_answers": ["Z mléka", "Z rýže", "Z mandlí"]
+    }
+  ],
+  "Marvel a DC": [
+    {
+      "value": 100,
+      "question": "Jak se jmenuje superhrdina, který leze po zdech a střílí pavučiny?",
+      "answer": "Spider-Man",
+      "wrong_answers": ["Batman", "Iron Man", "Superman"]
+    },
+    {
+      "value": 200,
+      "question": "Jakou barvu má Hulk?",
+      "answer": "Zelenou",
+      "wrong_answers": ["Červenou", "Modrou", "Šedou"]
+    },
+    {
+      "value": 300,
+      "question": "Který superhrdina je miliardář Bruce Wayne?",
+      "answer": "Batman",
+      "wrong_answers": ["Iron Man", "Captain America", "Thor"]
+    },
+    {
+      "value": 400,
+      "question": "Jak se jmenuje kladivo boha Thora?",
+      "answer": "Mjolnir",
+      "wrong_answers": ["Stormbreaker", "Excalibur", "Gungnir"]
+    },
+    {
+      "value": 500,
+      "question": "Který padouch luskl prsty a vymazal polovinu vesmíru?",
+      "answer": "Thanos",
+      "wrong_answers": ["Joker", "Loki", "Ultron"]
+    },
+    {
+      "value": 600,
+      "question": "Jak se jmenuje rodná planeta Supermana?",
+      "answer": "Krypton",
+      "wrong_answers": ["Asgard", "Mars", "Vulkán"]
+    }
+  ],
+    {
+  "Matematika a logika": [
+    {
+      "value": 100,
+      "question": "Kolik stupňů má pravý úhel?",
+      "answer": "90°",
+      "wrong_answers": ["180°", "45°", "60°"]
+    },
+    {
+      "value": 200,
+      "question": "Jak se jmenuje výsledek při sčítání?",
+      "answer": "Součet",
+      "wrong_answers": ["Rozdíl", "Součin", "Podíl"]
+    },
+    {
+      "value": 300,
+      "question": "Co znamená římská číslice X?",
+      "answer": "10",
+      "wrong_answers": ["5", "50", "100"]
+    },
+    {
+      "value": 400,
+      "question": "Jak se nazývá trojúhelník, který má všechny strany stejně dlouhé?",
+      "answer": "Rovnostranný",
+      "wrong_answers": ["Rovnoramenný", "Pravoúhlý", "Obecný"]
+    },
+    {
+      "value": 500,
+      "question": "Kolik je druhá odmocnina z čísla 81?",
+      "answer": "9",
+      "wrong_answers": ["8", "7", "6"]
+    },
+    {
+      "value": 600,
+      "question": "Jaká je přibližná hodnota Ludolfova čísla pí (π)?",
+      "answer": "3,14",
+      "wrong_answers": ["2,14", "4,13", "3,41"]
+    }
+  ],
+  "Počítačové hry": [
+    {
+      "value": 100,
+      "question": "V jaké hře se těží bloky a craftí nástroje?",
+      "answer": "Minecraft",
+      "wrong_answers": ["Roblox", "Fortnite", "Terraria"]
+    },
+    {
+      "value": 200,
+      "question": "Jaké barvy je postavička Mario?",
+      "answer": "Červená",
+      "wrong_answers": ["Zelená", "Modrá", "Žlutá"]
+    },
+    {
+      "value": 300,
+      "question": "Jak se jmenuje herní měna ve hře Fortnite?",
+      "answer": "V-Bucks",
+      "wrong_answers": ["Robux", "Coins", "Gems"]
+    },
+    {
+      "value": 400,
+      "question": "Která hra má herní mód 'Battle Royale'?",
+      "answer": "PUBG",
+      "wrong_answers": ["FIFA", "The Sims", "Need for Speed"]
+    },
+    {
+      "value": 500,
+      "question": "Jak se jmenuje studio, které vytvořilo hru GTA V?",
+      "answer": "Rockstar Games",
+      "wrong_answers": ["Ubisoft", "EA Sports", "Activision"]
+    },
+    {
+      "value": 600,
+      "question": "Jak se jmenuje hlavní hrdina série The Legend of Zelda?",
+      "answer": "Link",
+      "wrong_answers": ["Zelda", "Ganon", "Mario"]
+    }
+  ],
+  "Lidské tělo": [
+    {
+      "value": 100,
+      "question": "Který orgán v těle pumpuje krev?",
+      "answer": "Srdce",
+      "wrong_answers": ["Plíce", "Játra", "Ledviny"]
+    },
+    {
+      "value": 200,
+      "question": "Kolik má dospělý člověk obvykle zubů (včetně zubů moudrosti)?",
+      "answer": "32",
+      "wrong_answers": ["28", "36", "30"]
+    },
+    {
+      "value": 300,
+      "question": "Jak se jmenuje největší kost v lidském těle?",
+      "answer": "Stehenní kost",
+      "wrong_answers": ["Pažní kost", "Holenní kost", "Páteř"]
+    },
+    {
+      "value": 400,
+      "question": "Který smysl nám umožňuje vnímat pachy?",
+      "answer": "Čich",
+      "wrong_answers": ["Chuť", "Hmat", "Sluch"]
+    },
+    {
+      "value": 500,
+      "question": "Jaká je normální tělesná teplota zdravého člověka?",
+      "answer": "36-37 °C",
+      "wrong_answers": ["38-39 °C", "34-35 °C", "40-41 °C"]
+    },
+    {
+      "value": 600,
+      "question": "Kde v těle se nachází nejmenší kůstky (kladívko, kovadlinka, třmínek)?",
+      "answer": "V uchu",
+      "wrong_answers": ["V nose", "V prstu", "V koleni"]
+    }
+  ],
+  "Zeměpis ČR": [
+    {
+      "value": 100,
+      "question": "S jakým státem má Česká republika nejdelší hranici?",
+      "answer": "Polsko",
+      "wrong_answers": ["Německo", "Rakousko", "Slovensko"]
+    },
+    {
+      "value": 200,
+      "question": "Jak se jmenuje nejvyšší hora České republiky?",
+      "answer": "Sněžka",
+      "wrong_answers": ["Praděd", "Lysá hora", "Klínovec"]
+    },
+    {
+      "value": 300,
+      "question": "Ve kterém městě se vyrábí automobily Škoda?",
+      "answer": "Mladá Boleslav",
+      "wrong_answers": ["Plzeň", "Liberec", "Kolín"]
+    },
+    {
+      "value": 400,
+      "question": "Do kterého moře odtéká řeka Labe?",
+      "answer": "Severní moře",
+      "wrong_answers": ["Černé moře", "Baltské moře", "Jaderské moře"]
+    },
+    {
+      "value": 500,
+      "question": "Která česká památka je známá kostnicí?",
+      "answer": "Kutná Hora",
+      "wrong_answers": ["Český Krumlov", "Telč", "Karlštejn"]
+    },
+    {
+      "value": 600,
+      "question": "Jak se jmenuje nejjižnější bod České republiky?",
+      "answer": "Vyšší Brod",
+      "wrong_answers": ["Břeclav", "Znojmo", "Mikulov"]
+    }
+  ],
+  "Hudba": [
+    {
+      "value": 100,
+      "question": "Kolik strun má obvykle klasická kytara?",
+      "answer": "6",
+      "wrong_answers": ["4", "5", "7"]
+    },
+    {
+      "value": 200,
+      "question": "Jak se jmenuje česká národní hymna?",
+      "answer": "Kde domov můj",
+      "wrong_answers": ["Nad Tatrou sa blýska", "Vltava", "Slovanský tanec"]
+    },
+    {
+      "value": 300,
+      "question": "Který hudební styl proslavil Michael Jackson?",
+      "answer": "Pop",
+      "wrong_answers": ["Jazz", "Country", "Metal"]
+    },
+    {
+      "value": 400,
+      "question": "Co znamená v hudbě italský výraz 'piano'?",
+      "answer": "Potichu",
+      "wrong_answers": ["Nahlas", "Rychle", "Pomalu"]
+    },
+    {
+      "value": 500,
+      "question": "Ze které země pochází hudební styl K-Pop?",
+      "answer": "Jižní Korea",
+      "wrong_answers": ["Japonsko", "Čína", "USA"]
+    },
+    {
+      "value": 600,
+      "question": "Který slavný skladatel byl hluchý, když složil svou 9. symfonii?",
+      "answer": "Beethoven",
+      "wrong_answers": ["Mozart", "Bach", "Dvořák"]
+    }
+  ]
+}
+  "Český jazyk": [
+    {
+      "value": 100,
+      "question": "Jaké i/y se píše ve slově 'b_t' (existovat)?",
+      "answer": "tvrdé Y",
+      "wrong_answers": ["měkké I", "obojí je správně", "záleží na náladě"]
+    },
+    {
+      "value": 200,
+      "question": "Jak se říká slovům, která mají opačný význam (např. den - noc)?",
+      "answer": "Antonyma",
+      "wrong_answers": ["Synonyma", "Homonyma", "Archaismy"]
+    },
+    {
+      "value": 300,
+      "question": "Urči slovní druh slova 'PĚT'.",
+      "answer": "Číslovka",
+      "wrong_answers": ["Podstatné jméno", "Sloveso", "Přídavné jméno"]
+    },
+    {
+      "value": 400,
+      "question": "Kdo napsal knihu Babička?",
+      "answer": "Božena Němcová",
+      "wrong_answers": ["Karel Čapek", "Karel Jaromír Erben", "Alois Jirásek"]
+    },
+    {
+      "value": 500,
+      "question": "Co je to 'metafora'?",
+      "answer": "Přenášení významu na základě podobnosti",
+      "wrong_answers": ["Přirovnání se slovem jako", "Opakování slov na začátku veršů", "Oživování neživých věcí"]
+    },
+    {
+      "value": 600,
+      "question": "Do kterého vzoru podstatných jmen patří slovo 'STROJ'?",
+      "answer": "Stroj",
+      "wrong_answers": ["Hrad", "Pán", "Muž"]
+    }
+  ]
+}
     "Geografie": [
       {
         "value": 100,
