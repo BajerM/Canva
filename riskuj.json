@@ -38,6 +38,44 @@
         "wrong_answers": ["Versailleská smlouva", "Pakt Ribbentrop–Molotov", "Mnichovská dohoda"]
       }
     ],
+    "Hlavní města Evropy": [
+      {
+        "value": 100,
+        "question": "ČR?",
+        "answer": "Praha",
+        "wrong_answers": ["dd", "xx", "yy"]
+      },
+      {
+        "value": 200,
+        "question": "Slovensko",
+        "answer": "Bratislava",
+        "wrong_answers": ["Praha", "Itálie", "Košice"]
+      },
+      {
+        "value": 300,
+        "question": "Itálie",
+        "answer": "Řím",
+        "wrong_answers": ["Verona", "Istambul", "Miláno"]
+      },
+      {
+        "value": 400,
+        "question": "Makedoie",
+        "answer": "Skopje",
+        "wrong_answers": ["Řím", "Budapešť", "Skopie"]
+      },
+      {
+        "value": 500,
+        "question": "Estonsko",
+        "answer": "Tallin",
+        "wrong_answers": ["Pussi", "Tansalut", "Narva"]
+      },
+      {
+        "value": 600,
+        "question": "Moldavsko",
+        "answer": "kišiněv",
+        "wrong_answers": ["Paříž", "Budapešť", "Mnichov"]
+      }
+    ],
     "Věda": [
       {
         "value": 100,
