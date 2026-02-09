@@ -43,7 +43,7 @@
         "value": 100,
         "question": "ČR?",
         "answer": "Praha",
-        "wrong_answers": ["Brno", "Ostrava", "Plzeň"]
+        "wrong_answers": ["dd", "xx", "yy"]
       },
       {
         "value": 200,
@@ -59,7 +59,7 @@
       },
       {
         "value": 400,
-        "question": "Makedonie",
+        "question": "Makedoie",
         "answer": "Skopje",
         "wrong_answers": ["Řím", "Budapešť", "Skopie"]
       },
@@ -72,7 +72,7 @@
       {
         "value": 600,
         "question": "Moldavsko",
-        "answer": "Kišiněv",
+        "answer": "kišiněv",
         "wrong_answers": ["Paříž", "Budapešť", "Mnichov"]
       }
     ],
@@ -152,3 +152,275 @@
         "wrong_answers": ["Brazílie", "Německo", "Argentina"]
       }
     ],
+    "Kultura": [
+      {
+        "value": 100,
+        "question": "Kdo napsal pohádku ‚O Pejskovi a Kočičce‘?",
+        "answer": "Josef Čapek",
+        "wrong_answers": ["Karel Čapek", "Božena Němcová", "Jan Werich"]
+      },
+      {
+        "value": 200,
+        "question": "Který hudební nástroj má klávesy a struny?",
+        "answer": "Klavír",
+        "wrong_answers": ["Housle", "Flétna", "Kytara"]
+      },
+      {
+        "value": 300,
+        "question": "Kdo namaloval slavný obraz Mona Lisa?",
+        "answer": "Leonardo da Vinci",
+        "wrong_answers": ["Michelangelo", "Vincent van Gogh", "Pablo Picasso"]
+      },
+      {
+        "value": 400,
+        "question": "Který spisovatel napsal dílo ‚Babička‘?",
+        "answer": "Božena Němcová",
+        "wrong_answers": ["Karel Hynek Mácha", "Alois Jirásek", "Jan Neruda"]
+      },
+      {
+        "value": 500,
+        "question": "Jak se jmenuje slavný český muzikál o středověku, kde hraje Karel Gott?",
+        "answer": "Noc na Karlštejně",
+        "wrong_answers": ["Dracula", "Jesus Christ Superstar", "Kleopatra"]
+      },
+      {
+        "value": 600,
+        "question": "Jak se jmenuje známý obraz Vincenta van Gogha s noční oblohou?",
+        "answer": "Hvězdná noc",
+        "wrong_answers": ["Slunečnice", "Křik", "Poslední večeře"]
+      }
+    ],
+    "Geografie": [
+      {
+        "value": 100,
+        "question": "Hlavní město České republiky je:",
+        "answer": "Praha",
+        "wrong_answers": ["Brno", "Plzeň", "Ostrava"]
+      },
+      {
+        "value": 200,
+        "question": "Nejdelší česká řeka je:",
+        "answer": "Vltava",
+        "wrong_answers": ["Labe", "Morava", "Sázava"]
+      },
+      {
+        "value": 300,
+        "question": "Na kterém kontinentu leží Egypt?",
+        "answer": "Afrika",
+        "wrong_answers": ["Asie", "Evropa", "Austrálie"]
+      },
+      {
+        "value": 400,
+        "question": "Jak se jmenuje nejvyšší hora světa?",
+        "answer": "Mount Everest",
+        "wrong_answers": ["K2", "Mont Blanc", "Kilimandžáro"]
+      },
+      {
+        "value": 500,
+        "question": "Který oceán je největší na Zemi?",
+        "answer": "Tichý oceán",
+        "wrong_answers": ["Atlantský oceán", "Indický oceán", "Severní ledový oceán"]
+      },
+      {
+        "value": 600,
+        "question": "Jak se jmenuje největší poušť světa?",
+        "answer": "Sahara",
+        "wrong_answers": ["Gobi", "Atacama", "Arabská poušť"]
+      }
+    ],
+    "Influenceři": [
+      {
+        "value": 100,
+        "question": "Který český youtuber je známý sérií 'MenT’s life'?",
+        "answer": "MenT",
+        "wrong_answers": ["Tary", "Pedro", "Duklock"]
+      },
+      {
+        "value": 200,
+       "question": "Kdo z těchto influencerů se proslavil parkourem?",
+        "answer": "Tary",
+        "wrong_answers": ["Stejk", "Kovy", "Annie Camel"]
+      },
+      {
+        "value": 300,
+        "question": "Kdo je známý jako 'Kovy' na YouTube?",
+        "answer": "Karel Kovář",
+        "wrong_answers": ["MenT", "Tary", "Shopaholic Nicol"]
+      },
+      {
+        "value": 400,
+        "question": "Jaká byla první písnička na ytb Naty Hrychové",
+        "answer": "Pátá",
+        "wrong_answers": ["Anna Šulc", "DomiNiky", "Karin Ann"]
+      },
+      {
+        "value": 500,
+          "question": "Kdo vydělává nejvíce z youtube v ČR",
+        "answer": "Fizi",
+        "wrong_answers": ["Anna Šulc", "DomiNiky", "Karin Ann"]
+      },
+      {
+        "value": 600,
+        "question": "Který český influencer se stal tváří značky Red Bull a natáčí extrémní videa?",
+        "answer": "Nikos",
+        "wrong_answers": ["Fizzy", "Kovy", "Tary"]
+      }
+    ],
+    "Informatika": [
+      {
+        "value": 100,
+        "question": "Co znamená zkratka PC?",
+        "answer": "Personal Computer",
+        "wrong_answers": ["Public Connection", "Private Code", "Program Control"]
+      },
+      {
+        "value": 200,
+        "question": "Který operační systém vytvořila firma Microsoft?",
+        "answer": "Windows",
+        "wrong_answers": ["Linux", "MacOS", "Android"]
+      },
+      {
+        "value": 300,
+        "question": "Jaký program slouží k psaní textů ve Windows?",
+        "answer": "Microsoft Word",
+        "wrong_answers": ["Excel", "PowerPoint", "Paint"]
+      
+      },
+      {
+        "value": 400,
+        "question": "Kdo je zakladatelem firmy Microsoft?",
+        "answer": "Bill Gates",
+        "wrong_answers": ["Steve Jobs", "Mark Zuckerberg", "Elon Musk"]
+      },
+       {
+        "value": 500,
+        "question": "Jak se nazývá proces, kdy se do programu vkládá škodlivý kód?",
+        "answer": "Hackování",
+        "wrong_answers": ["Programování", "Skenování", "Komprimace"]
+      },
+      {
+          "value": 600,
+        "question": "Jak se jmenuje základní jednotka informace?",
+        "answer": "Bit",
+        "wrong_answers": ["Byte", "Pixel", "File"]
+      }
+     
+    ],
+    "Angličtina": [
+      {
+        "value": 100,
+        "question": "Jak se anglicky řekne ‚kočka‘?",
+        "answer": "Cat",
+        "wrong_answers": ["Dog", "Cow", "Mouse"]
+      },
+      {
+        "value": 200,
+        "question": "Jaký je minulý čas slovesa ‚go‘?",
+        "answer": "Went",
+        "wrong_answers": ["Goed", "Goes", "Goesed"]
+      },
+      {
+        "value": 300,
+        "question": "Co znamená anglické slovo ‚blue‘?",
+        "answer": "Modrá",
+        "wrong_answers": ["Zelená", "Žlutá", "Červená"]
+      },
+      {
+        "value": 400,
+        "question": "Jak se přeloží věta ‚I like school‘?",
+        "answer": "Mám rád školu",
+        "wrong_answers": ["Jdu do školy", "Nemám rád školu", "Škola je zavřená"]
+      },
+      {
+        "value": 500,
+        "question": "Jak se anglicky řekne ‚včera‘?",
+        "answer": "Yesterday",
+        "wrong_answers": ["Tomorrow", "Today", "Morning"]
+      },
+      {
+        "value": 600,
+        "question": "Jaký je správný překlad věty ‚She has been there before‘?",
+        "answer": "Už tam byla dříve",
+        "wrong_answers": ["Půjde tam zítra", "Nikdy tam nebyla", "Byla tam právě teď"]
+      }
+    ],
+    "Filmy": [
+      {
+        "value": 100,
+        
+ "question": "Z jakého filmu je hláška:Matýsek se posral",
+        "answer": "Stebou mě baví svět",
+        "wrong_answers": ["Pelíšky", "Vesničko má středisková", "Slunce seno jahody"]
+        
+      },
+      {
+        "value": 200,
+        "question": "Která postava říká větu ‚Já jsem tvůj otec‘?",
+        "answer": "Darth Vader",
+        "wrong_answers": ["Luke Skywalker", "Han Solo", "Yoda"]
+      },
+      {
+        "value": 300,
+        "question": "Kdo hraje hlavní roli ve filmu ‚Harry Potter‘?",
+        "answer": "Daniel Radcliffe",
+        "wrong_answers": ["Rupert Grint", "Tom Holland", "Robert Pattinson"]
+      },
+      {
+        "value": 400,
+        "question": "Jak se jmenuje studio, které natočilo film ‚Toy Story‘?",
+        "answer": "Pixar",
+        "wrong_answers": ["DreamWorks", "Disney", "Universal"]
+      },
+      {
+        "value": 500,
+        "question": "Kdo režíroval film ‚Titanic‘?",
+        "answer": "James Cameron",
+        "wrong_answers": ["Steven Spielberg", "Christopher Nolan", "Peter Jackson"]
+      },
+      {
+        "value": 600,
+        "question": "Jak se jmenuje film, ve kterém postava žije události stále dokola?",
+        "answer": "Na Hromnice o den více",
+        "wrong_answers": ["Matrix", "Počátek", "Tenet"]
+      }
+    ],
+    "Příroda": [
+      {
+        "value": 100,
+        "question": "Kolik noh má pavouk?",
+        "answer": "8",
+        "wrong_answers": ["6", "10", "4"]
+      },
+      {
+        "value": 200,
+        "question": "Jak se nazývá mládě krávy?",
+        "answer": "Tele",
+        "wrong_answers": ["Kůzle", "Sele", "Jelenče"]
+      },
+      {
+        "value": 300,
+        "question": "Která část stromu vyrůstá ze země?",
+        "answer": "Kmen",
+        "wrong_answers": ["Kořen", "List", "Větev"]
+      },
+      {
+        "value": 400,
+        "question": "Jaký plyn rostliny uvolňují při fotosyntéze?",
+        "answer": "Kyslík",
+        "wrong_answers": ["Dusík", "Oxid uhličitý", "Vodík"]
+      },
+      {
+        "value": 500,
+        "question": "Jak se nazývá místo, kde žijí tučňáci?",
+        "answer": "Antarktida",
+        "wrong_answers": ["Arktida", "Sibiř", "Island"]
+      },
+      {
+        "value": 600,
+        "question": "Jak se nazývá přeměna housenky v motýla?",
+        "answer": "metamorfóza",
+        "wrong_answers": ["Fotosyntéza", "Mutace", "Rozklad"]
+      }
+    ]
+  }
+}
