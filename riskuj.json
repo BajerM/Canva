@@ -1,3 +1,20 @@
+Musíš to vložit dovnitř té sekce "categories": { ... }.
+
+Nejdůležitější pravidlo v JSONu je: Mezi jednotlivými kategoriemi musí být čárka.
+
+Tvůj kód končí kategorií "Český jazyk". Aby to fungovalo, musíš:
+
+Najít konec hranaté závorky ] u Českého jazyka.
+
+Napsat za ni čárku ,.
+
+Vložit tam ty nové kategorie.
+
+Abych ti ušetřil práci a nervy s hledáním čárek, tady je KOMPLETNÍ soubor. Jsou v něm všechna tvoje stará témata (Historie, Věda...) a na konci jsou připojená ta nová informatická (Sítě, Cloud, Hrozby...).
+
+Stačí zkopírovat tento celý kód níže a přepsat jím vše, co máš v souboru teď:
+
+JSON
 {
   "categories": {
     "Historie": [
@@ -798,44 +815,6 @@
         "wrong_answers": ["Nos", "Oko", "Prst"]
       }
     ],
-    "Zeměpis ČR": [
-      {
-        "value": 100,
-        "question": "S kým máme nejdelší hranici?",
-        "answer": "Polsko",
-        "wrong_answers": ["Německo", "Rakousko", "Slovensko"]
-      },
-      {
-        "value": 200,
-        "question": "Nejvyšší hora ČR?",
-        "answer": "Sněžka",
-        "wrong_answers": ["Praděd", "Klínovec", "Říp"]
-      },
-      {
-        "value": 300,
-        "question": "Kde se vyrábí Škodovky?",
-        "answer": "Boleslav",
-        "wrong_answers": ["Plzeň", "Kolín", "Praha"]
-      },
-      {
-        "value": 400,
-        "question": "Do jakého moře teče Labe?",
-        "answer": "Severní",
-        "wrong_answers": ["Černé", "Baltské", "Jaderské"]
-      },
-      {
-        "value": 500,
-        "question": "Kde je známá kostnice?",
-        "answer": "Kutná Hora",
-        "wrong_answers": ["Krumlov", "Telč", "Karlštejn"]
-      },
-      {
-        "value": 600,
-        "question": "Jak se jmenuje nejjižnější bod ČR?",
-        "answer": "Vyšší Brod",
-        "wrong_answers": ["Břeclav", "Znojmo", "Mikulov"]
-      }
-    ],
     "Hudba": [
       {
         "value": 100,
@@ -911,6 +890,196 @@
         "answer": "Stroj",
         "wrong_answers": ["Hrad", "Pán", "Muž"]
       }
-    ]
+    ],
+    "Sítě a Internet": [
+      {
+        "value": 100,
+        "question": "Program, kterým prohlížíme internet (např. Chrome)?",
+        "answer": "Prohlížeč",
+        "wrong_answers": ["Hledáč", "Zobrazovač", "Spojovač"]
+      },
+      {
+        "value": 200,
+        "question": "Adresa webové stránky (zkratka začínající na U)?",
+        "answer": "URL",
+        "wrong_answers": ["USB", "UTP", "UPS"]
+      },
+      {
+        "value": 300,
+        "question": "Počítač, který poskytuje služby a data ostatním?",
+        "answer": "Server",
+        "wrong_answers": ["Klient", "Switch", "Router"]
+      },
+      {
+        "value": 400,
+        "question": "Krabička s anténami, která vás doma připojuje k internetu?",
+        "answer": "Router",
+        "wrong_answers": ["Switch", "Modem", "Server"]
+      },
+      {
+        "value": 500,
+        "question": "Unikátní číselná adresa každého zařízení v síti?",
+        "answer": "IP",
+        "wrong_answers": ["IT", "PC", "MAC"]
+      },
+      {
+        "value": 600,
+        "question": "Slovní název webu (např. seznam.cz), který píšeme místo čísel?",
+        "answer": "Doména",
+        "wrong_answers": ["IP adresa", "Protokol", "Server"]
+      }
+    ],
+    "Cloud": [
+      {
+        "value": 100,
+        "question": "Internetový obchod (zkráceně)?",
+        "answer": "E-shop",
+        "wrong_answers": ["E-mail", "Web", "Bazar"]
+      },
+      {
+        "value": 200,
+        "question": "Sledování filmů nebo hudby online bez stahování?",
+        "answer": "Streamování",
+        "wrong_answers": ["Stahování", "Nahrávání", "Ukládání"]
+      },
+      {
+        "value": 300,
+        "question": "Jak se jedním slovem říká úložišti na vzdálených serverech?",
+        "answer": "Cloud",
+        "wrong_answers": ["Disk", "Flashka", "Složka"]
+      },
+      {
+        "value": 400,
+        "question": "Jak se jmenuje školní cloudová aplikace na chat a úkoly?",
+        "answer": "Teams",
+        "wrong_answers": ["Word", "Excel", "Discord"]
+      },
+      {
+        "value": 500,
+        "question": "Na jaký hardware se ukládají data uvnitř tvého počítače?",
+        "answer": "Disk",
+        "wrong_answers": ["Procesor", "Monitor", "Klávesnice"]
+      },
+      {
+        "value": 600,
+        "question": "Obrovská budova plná serverů, kde jsou fyzicky uložena data?",
+        "answer": "Datacentrum",
+        "wrong_answers": ["Sklad", "Továrna", "Kancelář"]
+      }
+    ],
+    "Kyber Hrozby": [
+      {
+        "value": 100,
+        "question": "Tajné slovo nebo znaky, kterými si chráníme vstup do účtu?",
+        "answer": "Heslo",
+        "wrong_answers": ["Jméno", "Příjmení", "Wifi"]
+      },
+      {
+        "value": 200,
+        "question": "Škodlivý program, který se sám šíří a škodí?",
+        "answer": "Vir",
+        "wrong_answers": ["Hardware", "Software", "Aplikace"]
+      },
+      {
+        "value": 300,
+        "question": "Jak se říká člověku, který se nelegálně nabourává do počítačů?",
+        "answer": "Hacker",
+        "wrong_answers": ["Programátor", "Správce", "Uživatel"]
+      },
+      {
+        "value": 400,
+        "question": "Zkratka pro bezpečnější přihlašování (mobil + heslo)?",
+        "answer": "2FA",
+        "wrong_answers": ["3D", "4K", "GPS"]
+      },
+      {
+        "value": 500,
+        "question": "Podvodný e-mail, který z tebe láká hesla (🐟)?",
+        "answer": "Phishing",
+        "wrong_answers": ["Spam", "Hoax", "Chat"]
+      },
+      {
+        "value": 600,
+        "question": "Vir, který se maskuje za užitečnou hru (podle řecké báje)?",
+        "answer": "Trojan",
+        "wrong_answers": ["Červ", "Had", "Drak"]
+      }
+    ],
+    "Zabezpečení PC": [
+      {
+        "value": 100,
+        "question": "Jaká 4 čísla chrání tvou SIM kartu nebo mobil?",
+        "answer": "PIN",
+        "wrong_answers": ["PUK", "PSČ", "DIČ"]
+      },
+      {
+        "value": 200,
+        "question": "Program, který v počítači vyhledává a brání virům?",
+        "answer": "Antivir",
+        "wrong_answers": ["Antibiotikum", "Antispam", "Cleaner"]
+      },
+      {
+        "value": 300,
+        "question": "Co musíme pravidelně dělat se systémem, aby byl bezpečný?",
+        "answer": "Aktualizace",
+        "wrong_answers": ["Restart", "Vypnutí", "Formátování"]
+      },
+      {
+        "value": 400,
+        "question": "Vytváření kopie dat na jiné místo pro případ havárie?",
+        "answer": "Zálohování",
+        "wrong_answers": ["Mazání", "Kopírování", "Sdílení"]
+      },
+      {
+        "value": 500,
+        "question": "Bezpečnostní brána, která kontroluje data z internetu?",
+        "answer": "Firewall",
+        "wrong_answers": ["Windows", "Defender", "Brána"]
+      },
+      {
+        "value": 600,
+        "question": "Proces, kdy se text zprávy změní na nečitelný kód?",
+        "answer": "Šifrování",
+        "wrong_answers": ["Kódování", "Zamykání", "Mazání"]
+      }
+    ],
+    "Digitální stopa": [
+      {
+        "value": 100,
+        "question": "Jak se říká vymyšlenému jménu, pod kterým vystupuješ na internetu?",
+        "answer": "Nick",
+        "wrong_answers": ["Profil", "Účet", "Jméno"]
+      },
+      {
+        "value": 200,
+        "question": "Kde v prohlížeči najdeš seznam navštívených stránek?",
+        "answer": "Historie",
+        "wrong_answers": ["Záložky", "Oblíbené", "Nastavení"]
+    },
+    {
+      "value": 300,
+      "question": "Jak se říká člověku, který se živí sociálními sítěmi?",
+      "answer": "Influencer",
+      "wrong_answers": ["Youtuber", "Streamer", "Hráč"]
+    },
+    {
+      "value": 400,
+      "question": "Za jak dlouho se z internetu úplně smažou tvé fotky?",
+      "answer": "Nikdy",
+      "wrong_answers": ["Za rok", "Za měsíc", "Hned"]
+    },
+    {
+      "value": 500,
+      "question": "Co rozhoduje o tom, jaká videa ti nabídne TikTok?",
+      "answer": "Algoritmus",
+      "wrong_answers": ["Moderátor", "Náhoda", "Robot"]
+    },
+    {
+      "value": 600,
+      "question": "Skrytá data uvnitř fotky (čas, typ mobilu)?",
+      "answer": "Metadata",
+      "wrong_answers": ["Megadata", "Microdata", "Bigdata"]
+    }
+  ]
   }
 }
