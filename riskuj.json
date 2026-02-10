@@ -1,20 +1,4 @@
-Musíš to vložit dovnitř té sekce "categories": { ... }.
 
-Nejdůležitější pravidlo v JSONu je: Mezi jednotlivými kategoriemi musí být čárka.
-
-Tvůj kód končí kategorií "Český jazyk". Aby to fungovalo, musíš:
-
-Najít konec hranaté závorky ] u Českého jazyka.
-
-Napsat za ni čárku ,.
-
-Vložit tam ty nové kategorie.
-
-Abych ti ušetřil práci a nervy s hledáním čárek, tady je KOMPLETNÍ soubor. Jsou v něm všechna tvoje stará témata (Historie, Věda...) a na konci jsou připojená ta nová informatická (Sítě, Cloud, Hrozby...).
-
-Stačí zkopírovat tento celý kód níže a přepsat jím vše, co máš v souboru teď:
-
-JSON
 {
   "categories": {
     "Historie": [
