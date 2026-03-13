@@ -666,23 +666,25 @@
         "answer": "Batman",
         "wrong_answers": ["Joker", "Robin", "Thor"]
       },
-      {
+        {
         "value": 400,
-        "question": "Jak se jmenuje Thorovo kladivo?",
-        "answer": "Mjolnir",
-        "wrong_answers": ["Sekera", "Meč", "Štít"]
-      },
-      {
-        "value": 500,
-        "question": "Kdo luskl rukavicí nekonečna?",
-        "answer": "Thanos",
-        "wrong_answers": ["Loki", "Ultron", "Venom"]
-      },
-      {
-        "value": 600,
         "question": "Rodná planeta Supermana?",
         "answer": "Krypton",
         "wrong_answers": ["Země", "Mars", "Asgard"]
+      },
+      
+      {
+        "value": 500,
+        "question": "Kdo luskl naposled rukavicí nekonečna?",
+        "answer": "Ironman",
+        "wrong_answers": ["Loki", "Ultron", "Venom"]
+      },
+    
+      {
+        "value": 600,
+        "question": "Jak se jmenuje Thorovo kladivo?",
+        "answer": "Mjolnir",
+        "wrong_answers": ["Sekera", "Meč", "Štít"]
       }
     ],
     "Matematika a logika": [
